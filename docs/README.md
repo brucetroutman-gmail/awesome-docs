@@ -1,1 +1,1 @@
-README
+This site is very much both under construction and an experiment.
