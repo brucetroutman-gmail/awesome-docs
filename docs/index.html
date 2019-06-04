@@ -23,14 +23,17 @@
 	<style>
 		:root {
 			/* Reduce the font size */
-			/* --base-font-size: 14px; */
+			--base-font-size: 16px;
 
 			/* Change the theme color hue (0-360) */
-			/* --theme-hue: 325; */
+			--theme-hue: 335;
+      --theme-saturation: 80%;
+      --theme-lightness : 50%;
 
 			/* Add sidebar navigation bullets */
 			/* --sidebar-nav-link-before-content-l1: '😀'; */
 			/* --sidebar-nav-link-before-content-l2: '💩'; */
+      /* Nav Links - Pseudo Style */
 		}
 	</style>
 </head>
@@ -55,7 +58,14 @@
 			themeable : {
 				// readyTransition : false,
 				// responsiveTables: false
-			}
+      },
+      // search things
+      search: {
+      maxAge: 10000, // Expiration time, milliseconds, 10s now.
+      paths: 'auto', // or 'auto' or []
+      placeholder: 'Type to search',
+      hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+      }
 	};
 	</script>
 
