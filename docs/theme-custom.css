@@ -1,0 +1,206 @@
+
+.sidebar-nav a, .sidebar nav a {
+	white-space: normal;
+	line-height:1.3;
+}
+
+.sidebar-nav li, .sidebar nav li  {
+    padding:3px 0px;
+}
+
+img {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(128, 128, 128, 0.098);
+    /* border-image: initial; */
+    border-radius: var(--border-radius-l);
+    /* margin: 1em 0em; */
+}
+
+:root {
+	/* Add sidebar navigation bullets */
+	/* --sidebar-nav-link-before-content-l1: '📃'; */
+	--sidebar-nav-link-before-content-l2: '📄';
+	/* Nav Links - Pseudo Style */
+}
+
+/* App
+======================================================== */
+:root {
+    /* Color
+    -------------------------------------------- */
+    /* Monochrome */
+    --mono-hue        : 200;
+    --mono-saturation : 1%;
+
+    /* Monochrome shades (darker) and tints (lighter) */
+    --mono-shade3     : hsl(var(--mono-hue), var(--mono-saturation), 20%); /* #333333 */
+    --mono-shade2     : hsl(var(--mono-hue), var(--mono-saturation), 30%); /* #4d4d4d */
+    --mono-shade1     : hsl(var(--mono-hue), var(--mono-saturation), 40%); /* #666666 */
+    --mono-base       : hsl(var(--mono-hue), var(--mono-saturation), 50%); /* #808080 */
+    --mono-tint1      : hsl(var(--mono-hue), var(--mono-saturation), 70%); /* #b3b3b3 */
+    --mono-tint2      : hsl(var(--mono-hue), var(--mono-saturation), 89%); /* #e3e3e3 */
+    --mono-tint3      : hsl(var(--mono-hue), var(--mono-saturation), 97%); /* #f7f7f7 */
+    --mono-tint4      : hsl(var(--mono-hue), 70%, 97%);
+
+    /* Theme */
+	--theme-hue: 335;
+	--theme-saturation: 80%;
+	--theme-lightness : 50%;
+	--theme-color     : hsl(var(--theme-hue), var(--theme-saturation), var(--theme-lightness));
+	/* --code-theme-text : hsl(var(--theme-hue), 70%, 50%); */
+	--code-theme-text : #1d1d1d;
+	--code-theme-background : var(--mono-tint4);
+	--accent-color: #abdd15;
+	--accent-color-light:  #b6f30063;
+	--link-color : #0072cf;
+
+    /* Typography
+    ------------------------------------------------------------------------- */
+    /* Modular Scale */
+	--modular-scale   : 1.2;
+}
+
+/* Base
+============================================================================= */
+:root {
+    --base-background-color: #f7f7f713;
+    /* --base-color           : var(--mono-shade2); */
+    --base-color           : #404040;
+    --base-font-family     : Lato,"Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    --base-font-size       : 17px;
+    --base-font-weight     : normal;
+    --base-letter-spacing  : ;
+    --base-line-height     : 1.5;
+}
+
+/* Content
+============================================================================= */
+.markdown-section blockquote {
+    padding: 1em;
+    padding-left: 1.3em;
+    margin: 1em 0em;
+}
+:root {
+	--content-max-width                 : 55em;
+
+    /* Blockquote */
+    --blockquote-background             : var(--mono-tint3);
+    --blockquote-border-color           : var(--mono-tint2);
+
+	/* Code */
+	/* --code-theme-background             : var(--mono-tint3); */
+    --code-font-family                  : Menlo, monospace;
+    --code-font-size                    : calc(var(--font-size-m) * 0.85);
+    --code-font-weight                  : normal;
+	--code-tab-size                     : 4;
+	--code-inline-background            : var(--code-theme-background);
+    --code-inline-border-radius         : var(--border-radius-s);
+    --code-inline-color                 : var(--code-theme-text);
+    --code-inline-margin                : 0 0.12em;
+    --code-inline-padding               : 0.3em 0.45em 0.15em;
+
+    /* Headings */
+    --heading-color                     : var(--mono-shade3);
+    --heading-font-family               : "Roboto Slab", "ff-tisa-web-pro", Georgia, Arial;
+    --heading-font-weight               : 700 ;
+    --heading-margin                    : 2.5rem 0 0;
+    /* --heading-padding                   : ; */
+    /* --heading-h1-border-color           : ; */
+    /* --heading-h1-border-style           : ; */
+    /* --heading-h1-border-width           : ; */
+    /* --heading-h1-color                  : ; */
+    --heading-h1-font-family            :"Roboto Slab", "ff-tisa-web-pro", Georgia, Arial ;
+    --heading-h1-font-size              : var(--font-size-xxl);
+    --heading-h1-font-weight            : 700;
+    --heading-h1-margin                 : ;
+    --heading-h1-padding                : ;
+    /* --heading-h2-border-color           : ; */
+    /* --heading-h2-border-style           : ; */
+    /* --heading-h2-border-width           : ; */
+    /* --heading-h2-color                  : ; */
+    --heading-h2-font-family            : "Roboto Slab", "ff-tisa-web-pro", Georgia, Arial;
+    --heading-h2-font-size              : var(--font-size-xl);
+    --heading-h2-font-weight            : 700;
+    /* --heading-h2-margin                 : ; */
+    /* --heading-h2-padding                : ; */
+    /* --heading-h3-border-color           : ; */
+    /* --heading-h3-border-style           : ; */
+    /* --heading-h3-border-width           : ; */
+    /* --heading-h3-color                  : ; */
+    --heading-h3-font-family            : "Roboto Slab", "ff-tisa-web-pro", Georgia, Arial;
+    --heading-h3-font-size              : var(--font-size-l);
+    --heading-h3-font-weight            : 700;
+    /* --heading-h3-margin                 : ; */
+    /* --heading-h3-padding                : ; */
+    /* --heading-h4-border-color           : ; */
+    /* --heading-h4-border-style           : ; */
+    /* --heading-h4-border-width           : ; */
+    /* --heading-h4-color                  : ; */
+    --heading-h4-font-family            : "Roboto Slab", "ff-tisa-web-pro", Georgia, Arial;
+    --heading-h4-font-size              : var(--font-size-m);
+    /* --heading-h4-font-weight            : ; */
+    /* --heading-h4-margin                 : ; */
+    /* --heading-h4-padding                : ; */
+
+    /* --heading-h5-border-color           : ; */
+    /* --heading-h5-border-style           : ; */
+    /* --heading-h5-border-width           : ; */
+    /* --heading-h5-color                  : ; */
+    --heading-h5-font-family            : "Roboto Slab", "ff-tisa-web-pro", Georgia, Arial;
+    --heading-h5-font-size              : var(--font-size-s);
+    /* --heading-h5-font-weight            : ; */
+    /* --heading-h5-margin                 : ; */
+    /* --heading-h5-padding                : ; */
+
+    /* --heading-h6-border-color           : ; */
+    /* --heading-h6-border-style           : ; */
+    /* --heading-h6-border-width           : ; */
+    /* --heading-h6-color                  : ; */
+    --heading-h6-font-family            : "Roboto Slab", "ff-tisa-web-pro", Georgia, Arial;
+    --heading-h6-font-size              : var(--font-size-xs);
+    /* --heading-h6-font-weight            : ; */
+    /* --heading-h6-margin                 : ; */
+    /* --heading-h6-padding                : ; */
+
+    /* Links */
+    /* --link-color                        : ;
+    /* --link-color--hover                 : ; */
+    --link-text-decoration              : none;
+    --link-text-decoration--hover       : underline;
+
+    /* Notice */
+    /* --notice-background                 : blue; */
+    /* --notice-border-color               : blue; */
+    /* --notice-border-radius              : var(--border-radius-m); */
+    /* --notice-border-style               : solid; */
+    /* --notice-border-width               : ; */
+    /* --notice-color                      : ; */
+    /* --notice-font-family                : ; */
+    /* --notice-font-weight                : normal; */
+    /* --notice-padding                    : 1em 1.5em; */
+
+	/* Notice - Important */
+    /* --notice-important-background       : ; */
+    /* --notice-important-border-color     : ; */
+    /* --notice-important-border-style     : ; */
+    /* --notice-important-border-width     : ; */
+    /* --notice-important-color            : ; */
+
+    /* Notice - Important Pseudo */
+    /* --notice-important-before-background: ; */
+    /* --notice-important-before-color     : ; */
+    /* --notice-important-before-content   : ; */
+
+    /* Notice - Tip */
+    --notice-tip-background             : var(--accent-color-light);
+    --notice-tip-border-color           : var(--accent-color);
+    /* --notice-tip-border-style           : ; */
+    /* --notice-tip-border-width           : ; */
+    /* --notice-tip-color                  : var(--accent-color); */
+
+    /* Notice - Tip Pseudo */
+    /* --notice-tip-before-background      : ; */
+    /* --notice-tip-before-color           : ; */
+    /* --notice-tip-before-content         : ; */
+}
