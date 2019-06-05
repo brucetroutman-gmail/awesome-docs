@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 - [![](assets/home.svg)Home](/ "IMADE3D Awesome Plaintext Docs")
 - [OctoPrint](OctoPrint.md)
-- [Template](/template/step1.md)
+<!-- - [Template](/template/step1.md) -->
 
 - **Links**
 - [IMADE3D Homepage](https://www.imade3d.com/)
