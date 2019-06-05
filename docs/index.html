@@ -4,7 +4,10 @@
 <div id="app">Please wait...</div>
 
 <head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!-- do I really want google fonts? -->
+	<link href="https://fonts.googleapis.com/css?family=Source+Code+Pro|Lato|Roboto+Slab&display=swap" rel="stylesheet">
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
 	<meta charset="utf-8">
 	<meta name="description" content="IMADE3D Awesome (Plaintext) Docs">
@@ -20,19 +23,8 @@
 	<!-- <link rel="stylesheet" href="https://unpkg.com/prism-theme-one-dark/prism-onedark.css"> -->
 
 	<!-- 3. Custom Theme Properties -->
-	<style>
-		:root {
-			/* Reduce the font size */
-			/* --base-font-size: 14px; */
-
-			/* Change the theme color hue (0-360) */
-			/* --theme-hue: 325; */
-
-			/* Add sidebar navigation bullets */
-			/* --sidebar-nav-link-before-content-l1: '😀'; */
-			/* --sidebar-nav-link-before-content-l2: '💩'; */
-		}
-	</style>
+	<!-- Custom theme stylesheet -->
+	<link rel="stylesheet" href="theme-custom.css">
 </head>
 
 <body>
@@ -55,7 +47,14 @@
 			themeable : {
 				// readyTransition : false,
 				// responsiveTables: false
-			}
+      },
+      // search things
+      search: {
+      maxAge: 10000, // Expiration time, milliseconds, 10s now.
+      paths: 'auto', // or 'auto' or []
+      placeholder: 'Type to search',
+      hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+      }
 	};
 	</script>
 
@@ -66,7 +65,7 @@
 	<!-- 6. Docsify Plugins -->
 	<script src="https://unpkg.com/docsify/lib/plugins/search.js"></script>
 	<!-- <script src="https://unpkg.com/docsify-copy-code"></script> -->
-	<!-- <script src="https://unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script> -->
+	<script src="https://unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 	<script src="https://unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
 </body>
 
