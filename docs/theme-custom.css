@@ -1,4 +1,3 @@
-
 .sidebar-nav a, .sidebar nav a {
 	white-space: normal;
 	line-height:1.3;
@@ -17,11 +16,21 @@ img {
     /* margin: 1em 0em; */
 }
 
+/* .sidebar-nav li:first-child:before{
+    content: "|";
+
+}
+
+.sidebar nav li:first-child:before{
+    content: "|";
+} */
+
 :root {
 	/* Add sidebar navigation bullets */
-	/* --sidebar-nav-link-before-content-l1: '📃'; */
+    /* --sidebar-nav-link-before-content-l1: '📃'; */
+    /* --sidebar-nav-link-before-content-l &:first-of-type: 📃; */
 	--sidebar-nav-link-before-content-l2: '📄';
-	/* Nav Links - Pseudo Style */
+    /* Nav Links - Pseudo Style */
 }
 
 /* App

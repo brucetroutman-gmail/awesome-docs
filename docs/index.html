@@ -6,7 +6,8 @@
 <head>
 	<!-- do I really want google fonts? -->
 	<link href="https://fonts.googleapis.com/css?family=Source+Code+Pro|Lato|Roboto+Slab&display=swap" rel="stylesheet">
-
+	<link rel="icon" href="assets/favicon.ico" type="image/x-icon"/>
+	<!-- <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16x16.png"> -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
 	<meta charset="utf-8">
@@ -36,17 +37,24 @@
 			name       : 'IMADE3D Awesome (Plaintext) Docs',
 			//repo       : 'https://github.com/imade3d/awesome-docs',
 			//coverpage  : 'coverpage.md',
-			homepage   : 'README.md',
+			homepage   : '_home.md',
 			// homepage   : 'https://raw.githubusercontent.com/jhildenbiddle/docsify-themeable/master/README.md',
 			loadSidebar: '_sidebar.md',
 			auto2top   : true,
 			maxLevel   : 3,
 			subMaxLevel: 3,
+			loadNavbar: true,
+			mergeNavbar: true,
+			formatUpdated: '{MM}/{DD}',
+				formatUpdated: function(date) {
+					return date;
+				},
+			// logo: 'assets/imade3d_logo_icon_12_px.png',
 
 			// 5. docsify-themeable
 			themeable : {
-				// readyTransition : false,
-				// responsiveTables: false
+				readyTransition : true,
+				responsiveTables: true
       },
       // search things
       search: {
