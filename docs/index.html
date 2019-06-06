@@ -62,7 +62,8 @@
 			//coverpage  : 'coverpage.md',
 			homepage   : '_home.md',
 			// homepage   : 'https://raw.githubusercontent.com/jhildenbiddle/docsify-themeable/master/README.md',
-			loadSidebar: '_sidebar.md',
+			loadSidebar: true,
+			autoHeader: true,
 			auto2top   : true,
 			maxLevel   : 3,
 			subMaxLevel: 3,
@@ -80,12 +81,23 @@
 				responsiveTables: true
       },
       // search things
-      search: {
-      maxAge: 10000, // Expiration time, milliseconds, 10s now.
-      paths: 'auto', // or 'auto' or []
-      placeholder: 'Type to search',
-      hideOtherSidebarContent: false, // whether or not to hide other sidebar content
-      }
+		search: {
+		maxAge: 10000, // Expiration time, milliseconds, 10s now.
+		paths: 'auto', // or 'auto' or []
+		placeholder: 'Type to search',
+		hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+	  },
+	  //tabs
+	  tabs: {
+		persist    : true,      // default
+		sync       : true,      // default
+		theme      : 'classic', // default
+		tabComments: false,      // default
+		tabHeadings: true       // default
+		},
+		// Relative path enabled
+		relativePath: true,
+		// THIS ONE CHANGES A LOT OF THING. REVIEW. https://docsify.js.org/#/configuration?id=relativepath
 	};
 	</script>
 
@@ -98,6 +110,7 @@
 	<!-- <script src="https://unpkg.com/docsify-copy-code"></script> -->
 	<script src="https://unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 	<script src="https://unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
 </body>
 
 </html>

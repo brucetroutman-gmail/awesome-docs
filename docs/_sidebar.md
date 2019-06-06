@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 - [![](assets/home.svg)Home](/ "IMADE3D Awesome Plaintext Docs")
-- [OctoPrint](OctoPrint.md)
+- [OctoPrint](OctoPrint/1_What_You_Should_Know_About_OctoPrint.md)
 <!-- - [Template](/template/step1.md) -->
 
 - **Links**

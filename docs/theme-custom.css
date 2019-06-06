@@ -122,8 +122,8 @@ img {
     --heading-h1-font-family            :"Roboto Slab", "ff-tisa-web-pro", Georgia, Arial ;
     --heading-h1-font-size              : var(--font-size-xxl);
     --heading-h1-font-weight            : 700;
-    --heading-h1-margin                 : ;
-    --heading-h1-padding                : ;
+    --heading-h1-margin                 : 0 0 2.5rem;
+    /* --heading-h1-padding                : 0 0 1rem; */
     /* --heading-h2-border-color           : ; */
     /* --heading-h2-border-style           : ; */
     /* --heading-h2-border-width           : ; */
