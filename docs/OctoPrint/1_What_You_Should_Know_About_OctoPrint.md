@@ -13,7 +13,7 @@
 ## Help?!
 
 - For general issues, [please refer to the official OctoPrint FAQ](https://community.octoprint.org/c/support/faq).
-- For connectivity issues please contact our support or post on our friendly [forum.imade3d.com](http://forum.imade3d.com).
+- For JellyBOX related issues or connectivity issues please contact our support or [post on our friendly forum.imade3d.com](http://forum.imade3d.com).
 - Bug reports belong on github: [github.com/foosel/OctoPrint/issues](https://github.com/foosel/OctoPrint/issues)
 
 ## Interview With OctoPrint's Creator Gina Häußge
