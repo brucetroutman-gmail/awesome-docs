@@ -14,3 +14,9 @@
 - For general issues, [please refer to the official OctoPrint FAQ](https://community.octoprint.org/c/support/faq).
 - For connectivity issues please contact our support or post on our friendly [forum.imade3d.com](http://forum.imade3d.com).
 - Bug reports belong on github: [github.com/foosel/OctoPrint/issues](https://github.com/foosel/OctoPrint/issues)
+
+## Interview With OctoPrint's Creator Gina Häußge
+
+OctoPrint community is large and active, but the main development is a [clearly a one-woman show.](https://github.com/foosel/OctoPrint/graphs/contributors) Here's a short and sweet intro to how OctoPrint started, what it does, and open source software.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qytk8_JpYyQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
