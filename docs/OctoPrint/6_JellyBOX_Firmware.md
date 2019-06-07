@@ -10,20 +10,29 @@
 
 !> This process will reset your settings. Note down anything you may want to restore later like E steps/mm or Z probe offset.
 
+### Copy the Upgrade URL
+
 First, scroll down to the [firmware upgrade links](#firmware-upgrade-links), locate your JellyBOX variant, and copy the whole Upgrade Link URL.
 
 ![upgrade_1.copy.jpg](/assets/upgrade_1.copy.jpg)
 
-Then, head over to OctoPrint.
+### Head over to OctoPrint.
 
 Go to Setting, and then scroll down in the left sidebar to find **Firmware Updater**.
 **Don't yet hit** the Flash button, but instead go press the **Settings button (2)**.
 
 ![upgrade_2enter.jpg](/assets/upgrade_2enter.jpg)
 
+
+### Verify Post-Flash Settings
+
 Click on the `Pre-Flash and Post-Flash Settings`, and then verify that `Post-flash gcode` is enabled and has `M502` and `M500` at the end. Save.
 
+?> This code will perform the Factory Reset, which truly needs to be done. Too much is new in this firmware.
+
 ![upgrade_2.verify.jpg](/assets/upgrade_2.verify.jpg)
+
+### Paste and Flash from URL
 
 Back in the Firmware Updater, it's time to (1) paste the Upgrade URL you copied in the first step. (2) Wait until this button becomes darker blue (the file needs to load) and click `Flash from URL.`
 
@@ -33,7 +42,8 @@ Wait.
 
 ![upgrade_4.flash.jpg](/assets/upgrade_4.flash.jpg)
 
-After wait comes success!
+### After wait comes success!
+
 You can restore any settings you noted down, kick back, and go back to printing and exploring NEW FEATURES of your new firmware.
 
 ![upgrade_5.success.jpg](/assets/upgrade_5.success.jpg)
