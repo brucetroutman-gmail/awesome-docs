@@ -66,10 +66,10 @@ You can browse for plugins at [https://plugins.octoprint.org/plugins/](https://p
 - A little graphical element that let's you when OctoPrint is taking long to do something, but it's still working.
 
 **Tab Order**
- - Allows for customization of the order and the looks of the tabs. Fancy icons here we go. 
+ - Allows for customization of the order and the looks of the tabs. Fancy icons here we go.
 
 **EEPROM Marlin Editor**
-- Enables you to view, edit and save JellyBOX settings in the persisten `EEPROM` memory. Things like Z probe offset, bed leveling mesh, or E-steps/mm. 
+- Enables you to view, edit and save JellyBOX settings in the persisten `EEPROM` memory. Things like Z probe offset, bed leveling mesh, or E-steps/mm.
 
 </details>
 
@@ -118,6 +118,6 @@ You can browse for plugins at [https://plugins.octoprint.org/plugins/](https://p
 
 There's a nice plugin manager in the settings. Use it :-)
 
-![2019-05-26_00-50-33.png](/Users/filipgoc/Documents/OneDrive/imade3d-onedrive/GITHUB/GitHub/imade3d-awesome-docs/docs/OctoPrint/assets/2019-05-26_00-50-33.png)
+![2019-05-26_00-50-33.png](/assets/2019-05-26_00-50-33.png)
 
-![2019-05-26_00-51-12.png](/Users/filipgoc/Documents/OneDrive/imade3d-onedrive/GITHUB/GitHub/imade3d-awesome-docs/docs/OctoPrint/assets/2019-05-26_00-51-12.png)
+![2019-05-26_00-51-12.png](/assets/2019-05-26_00-51-12.png)
