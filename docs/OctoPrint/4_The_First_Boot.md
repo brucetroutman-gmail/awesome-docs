@@ -2,7 +2,7 @@
 
 Put the micro sd card with OctoPi IMADE3D Edition installed into your Pi and power it up (the upper switch on your JellyBOX with a Raspbery logo).
 
-![pi-sd.png](/assets/pi-sd.png)
+![pi-sd.png](/assets/pi-sd.jpg)
 <div style="font-size:60%">_image courtesy: https://projects.raspberrypi.org_</div>
 
 The first boot may take up to 8 minutes, even though it often finishes in less than 4 minutes.
@@ -21,7 +21,7 @@ You can also set up a nicer URL that you can bookmark and remember, `octopi.loca
 
 Once you get to your OctoPi (be it via octopi.local or the IP address), you will are greated with a convenient _Setup Wizard_. It is highly recommended you read the Wizard carefully: it contains information important to your privacy and security.
 
-![2019-05-26_00-46-07.png](/assets/2019-05-26_00-46-07.png)
+![2019-05-26_00-46-07.png](/assets/2019-05-26_00-46-07.jpg)
 
 ### Admin Password
 
@@ -31,7 +31,7 @@ The first thing to set up is the Access Control.
 
 Use [https://xkpasswd.net/s/](https://xkpasswd.net/s/) if you need a secure password that is easy to remember. (Inspired by the famous [https://xkcd.com/936/](https://xkcd.com/936/)))
 
-![2019-05-26_00-46-53.png](/assets/2019-05-26_00-46-53.png)
+![2019-05-26_00-46-53.png](/assets/2019-05-26_00-46-53.jpg)
 
 ### Anonymous Tracking
 
@@ -49,7 +49,7 @@ This prevents your OctoPrint from wasting time and energy.
 
 If the `Test` fails, try to use another Host IP, as some providers (Comcast looking at you) block the `8.8.8.8` Google DNS server address. Try `1.1.1.1`, or `4.2.2.2` server (Level 3 DNS) which should fix the issue. If it still does not work, try another DNS server or any other public IP.
 
-![2019-05-26_00-49-14.png](/assets/2019-05-26_00-49-14.png)
+![2019-05-26_00-49-14.png](/assets/2019-05-26_00-49-14.jpg)
 
 ### Plugin Blacklist
 
@@ -57,7 +57,7 @@ If the `Test` fails, try to use another Host IP, as some providers (Comcast look
 
 Contrary to the intense name, this is not a list of bad plugins; rather just a list of plugins that are not compatible with your software.
 
-![2019-05-26_00-49-35.png](/assets/2019-05-26_00-49-35.png)
+![2019-05-26_00-49-35.png](/assets/2019-05-26_00-49-35.jpg)
 
 ### Done + Safety Warning + More Info
 
@@ -65,7 +65,7 @@ Contrary to the intense name, this is not a list of bad plugins; rather just a l
 
 Read. Maybe it's too early for you now, but once and if you find the software useful, remember it's open source and it could never exist without the support of regular folk.
 
-![2019-05-26_00-49-44.png](/assets/2019-05-26_00-49-44.png)
+![2019-05-26_00-49-44.png](/assets/2019-05-26_00-49-44.jpg)
 
 ---
 

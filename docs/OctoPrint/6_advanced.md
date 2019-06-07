@@ -118,6 +118,6 @@ You can browse for plugins at [https://plugins.octoprint.org/plugins/](https://p
 
 There's a nice plugin manager in the settings. Use it :-)
 
-![2019-05-26_00-50-33.png](/assets/2019-05-26_00-50-33.png)
+![2019-05-26_00-50-33.png](/assets/2019-05-26_00-50-33.jpg)
 
 ![2019-05-26_00-51-12.png](/assets/2019-05-26_00-51-12.png)

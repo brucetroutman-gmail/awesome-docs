@@ -7,9 +7,9 @@ Insert the microSD card into your computer and you should see a 'boot' SD card p
 
  Find `octopi-password.txt` file and open it with a text editor (Visual Studio Code, Atom, Sublime Text, Notepad ++). Replace the default `raspberry` password with **your own secure password**.
 
-![](/assets/Untitled-ab9ce31d-a5c1-4769-b9c8-c14e7aeb4fec.png)
+![](/assets/Untitled-ab9ce31d-a5c1-4769-b9c8-c14e7aeb4fec.jpg)
 
-![](/assets/Untitled-397e11d4-8b1b-4f2c-8d87-6f245be14bf5.png)
+![](/assets/Untitled-397e11d4-8b1b-4f2c-8d87-6f245be14bf5.jpg)
 
 - We recommend [https://xkpasswd.net/s/](https://xkpasswd.net/s/) if you need a secure password that is easy to remember. (Inspired by the famous [https://xkcd.com/936/](https://xkcd.com/936/))
 - Keep this password safe. It gives anyone complete control over the Raspberry Pi and a person with malicious intent could cause real damage (even fire).

@@ -119,7 +119,7 @@ Here are two videos that shows nicely how heat inserts are inserted. You only ne
 
 Install the Pi using M3x12 sockethead screws (4) AND 'dogbone' acrylic spacers (4).
 
-![spacers.png](assets/spacers.png)
+![spacers.png](assets/spacers.jpg)
 
 !> The Pi needs to be on **spacers** or there's a higher chance or worse performance due to thermal throttling.
 
@@ -139,7 +139,7 @@ Use the rest of the M3x12 screws (2).
 
 Install the Pi using M3x16 sockethead screws (4), M3 locknuts (4) AND 'dogbone' acrylic spacers (4).
 
-![spacers.png](assets/spacers.png)
+![spacers.png](assets/spacers.jpg)
 
 !> The Pi needs to be on **spacers** or there's a higher chance or worse performance due to thermal throttling.
 
@@ -166,9 +166,9 @@ The process is the same as installing the power switch for the JellyBOX (hence t
 
 If you get confused, [remember your training](#understand-the-wiring) 😈.
 
-![wiring-annos.png](assets/wiring-annos.png)
+![wiring-annos.png](assets/wiring-annos.jpg)
 
-![wiring.png](assets/wiring.png)
+![wiring.png](assets/wiring.jpg)
 
 ## 4. Connect the Pi to the RAMPS Board
 
