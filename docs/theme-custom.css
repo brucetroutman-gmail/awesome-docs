@@ -7,6 +7,10 @@
     padding:3px 0px;
 }
 
+.markdown-section code:not([class*="lang-"]):not([class*="language-"]) {
+    white-space: unset;
+}
+
 img {
     border-width: 1px;
     border-style: solid;
