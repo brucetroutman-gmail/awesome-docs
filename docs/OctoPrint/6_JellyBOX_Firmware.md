@@ -50,7 +50,7 @@ You can restore any settings you noted down, kick back, and go back to printing 
 
 ## Firmware Upgrade Links
 
-These are designed to be used with the Firmware Updated in OctoPrint, but you can also download the file and flash the firmware using Cura, Hex Uploader, or XLoader. Do what makes you happy.
+These are designed to be used with the Firmware Updater in OctoPrint, but you can also download the file and flash the firmware using Cura, Hex Uploader, or XLoader. Do what makes you happy.
 
 
 | JellyBOX Model and Variant                  | jb-3.0-dev6 Firmware Upgrade Link                                                                                                  |
