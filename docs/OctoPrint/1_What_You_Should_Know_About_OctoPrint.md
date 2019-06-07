@@ -8,6 +8,7 @@
 - IMADE3D provides an OctoPi image conveniently pre- configured and optimized for JellyBOXes, but we are not maintaintainers or developers of either OctoPrint or OctoPi.
     - OctoPrint homepage: [octoprint.org](https://octoprint.org/)
     - OctoPi homepage: [github.com/guysoft/OctoPi](https://github.com/guysoft/OctoPi)
+    - OctoPi IE homepage: [github.com/IMADE3D/OctoPi](https://github.com/IMADE3D/OctoPi)
 
 ## Help?!
 
