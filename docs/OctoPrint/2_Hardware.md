@@ -10,21 +10,21 @@
 
 If you have our [Plug and Play OctoPrint-IE KIT](https://shop.imade3d.com/3d-printer-parts-upgrades/plug-and-play-octoprint-ie-kit.html), you have all of these 👍.
 
-- [ ] RaspberryPi 3B+
+- RaspberryPi 3B+
 - Raspberry Pi 2 or 3 also work, but they are slower all around, and especially networking-wise. If you can, get the 3B+. It's not that expensive an it's better.
-- [ ] High performwance 32GB microSD card pre-loaded with OctoPi IE (IMADE3D Edition)
+- High performwance 32GB microSD card pre-loaded with OctoPi IE (IMADE3D Edition)
     - You can buy one from us or [follow this guide to make your own](PrepareSD/Prepare_OctoPi_IE_SD_card.md).
-- [ ] Lasercut spacers (4)
-- [ ] 3D printed stand-offs (2)
-- [ ] M3x45 sockethead screws (2)
-- [ ] M3x12 sockethead screws (6)
+- Lasercut spacers (4)
+- 3D printed stand-offs (2)
+- M3x45 sockethead screws (2)
+- M3x12 sockethead screws (6)
 - Either OR
-    - [ ] M3 Heat inserts (6)
-    - [ ] M3x16 sockethead screws (6) and M3 locknuts(6)
-- [ ] M3 locknuts (2)
-- [ ] USB-B cable (it's the cable that came with your JellyBOX)
-- [ ] RPi JellyBOX-integrated power supply + pre-crimped wiring
-- [ ] Heavy duty toggle switch + pre-crimped wiring
+    - M3 Heat inserts (6)
+    - M3x16 sockethead screws (6) and M3 locknuts(6)
+- M3 locknuts (2)
+- USB-B cable (it's the cable that came with your JellyBOX)
+- RPi JellyBOX-integrated power supply + pre-crimped wiring
+- Heavy duty toggle switch + pre-crimped wiring
 
 ### Tools
 
