@@ -1,6 +1,6 @@
 # Install the RPi Hardware Into Your JellyBox
 
-> If you have **JellyBOX Original**, please contact `support@info.imade3d` for help with installation. This guide is for JellyBOX 2. On JellyBOX Original, you will need to drill some new holes. You can probably figure it out, but if you want a hand, write us an email. We do plan on publishing guides for JellyBOX Original as well; they are just delayed.
+> If you have **JellyBOX Original**, please contact `support@imade3d.com` for help with installation. This guide is for JellyBOX 2. On JellyBOX Original, you will need to drill some new holes. You can probably figure it out, but if you want a hand, write us an email. We do plan on publishing guides for JellyBOX Original as well; they are just delayed.
 
 ?> `RPi` or `Pi` are both shorthands for `Raspberry Pi`.
 
