@@ -13,8 +13,6 @@ These are 'plain text' docs for IMADE3D products. The advantages are that these 
 
 [![Watch the video](assets/loom.png)](https://www.loom.com/share/2f9e1268ad39413a99579a00eca9e0d2)
 
-
-
 ## License
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-sa/4.0/)
