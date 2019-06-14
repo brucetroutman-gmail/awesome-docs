@@ -1,5 +1,18 @@
 # FAQ
 
+## Can I Keep the RPi outside of JellyBOX? Should I make a case for it?
+
+You bet. If you want to keep the Pi outside of your JellyBOX, for example because you have multiple JellyBOXes and want to switch between which one is remotely controlled, go ahead. 
+
+We recommend you 3D print a case for you Pi in that case! Otherwise you **run** the **risk of shorting the contacts on the Pi and destroying it**.
+
+Here's one of our favorite cases by Walter Hsiao. It's fast and easy to print, one piece, and protects the Pi in an elegant fashion.
+
+![walter-pi3.png](assets/walter-pi3.png)
+
+https://www.myminifactory.com/object/3d-print-cover-for-raspberry-pi-3-42727
+[https://www.thingiverse.com/thing:2320678](<https://www.thingiverse.com/thing:2320678>)
+
 ## What Webcam Options do I Have?
 
 We are unsure ourselves what is the best webcam position - this also depends on what webcam you have.
