@@ -26,6 +26,6 @@ But only under the following terms:
 - **Attribution** — You **must give appropriate credit**, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 - **ShareAlike** — If you remix, transform, or build upon the material, you **must distribute your contributions under the same license** as the original.
 
-> **If you are interested in licensing this work or part thereof under a different license (bet it Commercial or Free Culture license), get it touch with IMADE3D LLC. We are happy to talk.**
+> **If you are interested in licensing this work or part thereof under a different license (be it Commercial or Free Culture license), get it touch with IMADE3D LLC. We are happy to talk.**
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
