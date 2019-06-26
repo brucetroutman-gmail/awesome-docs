@@ -1,23 +1,3 @@
-<video preload="auto" autoplay="autoplay" loop="loop" style="width: 200px; height: 200px;">
-    <source src="//i.imgur.com/91S22q6.webm" type="video/webm"></source>
-</video>
-
-<video preload="auto" autoplay="autoplay" loop="loop" style="width: 200px; height: 200px;">
-    <source src="assets/91S22q6.webm" type="video/webm"></source>
-</video>
-
-<video loop muted playsinline>
-<source src="assets/video.mp4" type="video/mp4">
-</video>
-
-<div markdown="0">
-<video loop muted autoplay playsinline controls>
-<source src="assets/test.mp4" type="video/mp4">
-</video>
-</div>
-
-<video loop muted playsinline controls src="assets/test.mp4"></video>
-
 ## Clean the Nozzle
 
 !> Make sure the nozzle is clean before you proceed or you'll be wasting your 
