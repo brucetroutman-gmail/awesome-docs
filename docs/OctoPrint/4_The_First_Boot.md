@@ -3,7 +3,7 @@
 Put the micro sd card with OctoPi IMADE3D Edition installed into your Pi and power it up (the upper switch on your JellyBOX with a Raspbery logo).
 
 ![pi-sd.png](/assets/pi-sd.jpg)
-<div style="font-size:60%">_image courtesy: https://projects.raspberrypi.org_</div>
+<div style="font-size:60%; font-style:italic;">image courtesy: https://projects.raspberrypi.org</div>
 
 The first boot may take up to 8 minutes, even though it often finishes in less than 4 minutes.
 
