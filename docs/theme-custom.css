@@ -20,6 +20,11 @@ img {
     /* margin: 1em 0em; */
 }
 
+
+h1, h2 {
+    text-transform: capitalize;
+}
+
 /* .sidebar-nav li:first-child:before{
     content: "|";
 
