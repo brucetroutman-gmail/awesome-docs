@@ -1,9 +1,7 @@
 ---
 <br>
 
-Welcome to IMADE3D Awesome Docs. This is the new and upcoming site for IMADE3D documentation of all kinds.
-
-It's lean and mean, and thus should facilitate being faster up-to date, and that's good for everyone.
+Welcome to IMADE3D Awesome Docs.
 
 ?> Select a topic in the left side-bar to get started.
 
