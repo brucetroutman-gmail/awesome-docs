@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 - [![](assets/home.svg)Home](/ "IMADE3D Awesome Plaintext Docs")
 - [OctoPrint](OctoPrint/1_What_You_Should_Know_About_OctoPrint.md)
-- [Calibrate the 1st Layer Height](Calibrate_the_1st_Layer_Height/01-Get_Started.md)
+<!-- - [Calibrate the 1st Layer Height](Calibrate_the_1st_Layer_Height/01-Get_Started.md) -->
 <!-- - [Template](/template/step1.md) -->
 
 - **Links**

@@ -40,7 +40,7 @@ Move the extruder so that the nozzle is around the center of the build plate.
 
 ![center-extruder.png](assets/center-extruder.png)
 
-### 🎦 Video: Feel the nozzle with paper
+###Feel the nozzle with paper
 
 
 
@@ -48,11 +48,15 @@ Turn the z lead screw with your hand until the nozzle is lightly touching the bu
 
 Slide a piece of office paper underneath the nozzle and keep moving it back and forth all the while lowering the nozzle. When you can't move the paper freely back-and-forth that's when the nozzle is touching the plate.
 
-![first layer height 01](assets/first_layer_height_01.gif)
+<video loop muted autoplay playsinline controls>
+<source src="http://www.imade3d.com/awesome-assets/1st_layer_paper_1.mp4" />
+Please use a modern browser like Firefox or Chrome to see this helpful video.
+</video>
 
----
-
-
+<video loop muted autoplay playsinline controls>
+<source src="http://www.imade3d.com/awesome-assets/1st_layer_paper_2.mp4" />
+Please use a modern browser like Firefox or Chrome to see this helpful video.
+</video>
 
 ### Position the Z probe 1mm above the nozzle
 
@@ -61,7 +65,7 @@ We need the gap between the tip of the nozzle and bottom of the z probe to be ab
 Rest the Z probe on top of the Z probe Spacer and tighten in place.
 
 ![rest-zprobe.png](assets/rest-zprobe.png)
-<div style="font-size:80%; font-style:italic;text-align:center;">Use the Z probe spacer if you have it even though the image uses a zip tie.</div>
+<div style="font-size:90%; font-style:italic;text-align:center;">Use the Z probe spacer if you have it even though the image uses a zip tie.</div>
 
 
 !> Now, there should be just about 1mm gap between the tip of the nozzle and the probe.

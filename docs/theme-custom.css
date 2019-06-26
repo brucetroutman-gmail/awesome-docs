@@ -22,8 +22,14 @@ img {
 
 .markdown-section img {
     max-width:80%;
-    display:block;
-    margin:auto;
+    /* display:block; */
+    /* margin:auto; */
+}
+
+.markdown-section video {
+    max-width:80%;
+    /* display:block; */
+    /* margin:auto; */
 }
 
 .markdown-section iframe {
