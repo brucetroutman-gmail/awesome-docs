@@ -20,6 +20,16 @@ img {
     /* margin: 1em 0em; */
 }
 
+.markdown-section img {
+    max-width:80%;
+    display:block;
+    margin:auto;
+}
+
+.markdown-section iframe {
+    margin: 1em auto;
+    display: block;
+}
 
 h1, h2 {
     text-transform: capitalize;
