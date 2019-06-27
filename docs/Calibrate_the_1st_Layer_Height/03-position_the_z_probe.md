@@ -49,7 +49,7 @@ Turn the z lead screw with your hand until the nozzle is lightly touching the bu
 Slide a piece of office paper underneath the nozzle and keep moving it back and forth all the while lowering the nozzle. When you can't move the paper freely back-and-forth that's when the nozzle is touching the plate.
 
 <video loop muted autoplay playsinline controls>
-<source src="http://www.imade3d.com/awesome-assets/1st_layer_paper_1.mp4" />
+<source src="http://www.imade3d.com/awesome-assets/1st_layer_paper_11.mp4" />
 Please use a modern browser like Firefox or Chrome to see this helpful video.
 </video>
 
