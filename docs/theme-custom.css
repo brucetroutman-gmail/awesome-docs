@@ -14,27 +14,46 @@
 img {
     border-width: 1px;
     border-style: solid;
-    border-color: rgba(128, 128, 128, 0.098);
+    border-color: rgba(128, 128, 128, 0.2);
     /* border-image: initial; */
     border-radius: var(--border-radius-l);
-    /* margin: 1em 0em; */
 }
 
 .markdown-section img {
     max-width:80%;
+    /* margin: 1em 0em; */
     /* display:block; */
     /* margin:auto; */
 }
 
 .markdown-section video {
+    margin: 0.5em auto;
     max-width:80%;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-right:30px;
+    border-left:30px;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.8);
+    border-top-color: rgba(0, 0, 0, 0.1);
+    border-bottom-color: rgba(0, 0, 0, 0.2);
+    border-radius: var(--border-radius-l);
     /* display:block; */
     /* margin:auto; */
 }
 
 .markdown-section iframe {
-    margin: 1em auto;
-    display: block;
+    margin: 0.5em auto;
+    max-width:80%;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-right:30px;
+    border-left:30px;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.8);
+    border-top-color: rgba(0, 0, 0, 0.1);
+    border-bottom-color: rgba(0, 0, 0, 0.2);
+    border-radius: var(--border-radius-l);
 }
 
 h1, h2 {
