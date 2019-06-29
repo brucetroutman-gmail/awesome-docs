@@ -28,13 +28,8 @@ _In the previous section, we positioned the Z probe so that it senses the build 
 
 😡 If the nozzle is **too low**, the filament will not be able to flow out of the nozzle. This will at best result in oversized, hard to remove 1st layer. At worst, you will clog your hotend.
 
-### First Layer Height and Print Warping: A Deep Dive
-
+### First Layer Height and Print Warping
 Squishing the first layer more will get you a better adhesion while making the first layer oversized. Squishing it less will get you a more 'precise' print, but with a higher risk or the object warping, lifting, and getting completely messed up.
-
-If this is your first time, feel free to just soldier on with the calibration. If you are an aspiring print-master, you should understand the importance of 1st layer more in depth.
-
-🔗 [Yes, take me to the deep dive now.](first-layer-deep-dive.md)
 
 ## Cold Bed Users Only:
 If you have cold bed, put some blue tape on the build plate if it's still bare aluminum.
@@ -154,5 +149,3 @@ Check out the verified printable things on [MyMiniFactory](https://www.myminifac
 [download_sd]: go.imade3d.com/sd-card
 
 [perfect_first]: #perfect_1st
-
-
