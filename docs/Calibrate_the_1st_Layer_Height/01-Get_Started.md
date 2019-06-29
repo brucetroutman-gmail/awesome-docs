@@ -2,11 +2,17 @@
 
 ## How the Z Probe Determines a Successful Print
 
-When you print, it is imperative that the model - the object you're printing - is stuck to the build plate; only to be peeled off once the print is finished. For this, the printer needs to be able to repeatedly and precisely position the nozzle very close to the build plate so that the filament gets stuck to it as it's being extruded.
+![probes-positions](assets/probes-positions.jpg)
+
+When you print, it is imperative that the model - the object you're printing - is **stuck to the build plate**; only to be peeled off once the print is finished.
+
+For this, the printer needs to be able to repeatedly and precisely **position the nozzle very close to the build plate** so that the filament gets stuck to it as it's being extruded.
 
 > In short, a badly set-up Z probe guarantees a bad first layer and a print failure.
 
-The Z Probe is an inductive proximity sensor which senses metal objects using electromagnetic field. In JellyBOX, the probe senses the aluminum build plate and thus determines the z home position - just like simple mechanical switches determine the x and y home positions. Therefore, by adjusting the z probe, we can change the z home position and thus also the first layer height.
+The Z Probe is an inductive proximity sensor which senses metal objects using electromagnetic field. In JellyBOX, the probe senses the aluminum build plate and thus determines the z home position - just like simple mechanical switches determine the x and y home positions. Therefore, **by adjusting the z probe, we can change the z home position and thus also the first layer height.**
+
+![first-layer-poster.png](assets/first-layer-poster.png ':size=400%')
 
 ## The Plan
 
@@ -30,8 +36,6 @@ The Z Probe is an inductive proximity sensor which senses metal objects using el
 </details>
 
 
-## JellyBOX Versions ?!
+## What about Different JellyBOX Versions?
 
-There are differences between how the Z probe looks for different JellyBOXes, but the techniques and principles in this guide are the same for all.
-
-[comment]:: ( #todo image of the various probes and probe mounts with version names)
+There are differences between how the Z probe looks for different JellyBOXes, but the techniques and principles in this guide are the same for all. Proceed without fear.
