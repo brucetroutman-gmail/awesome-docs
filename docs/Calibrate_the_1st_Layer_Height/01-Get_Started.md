@@ -2,8 +2,6 @@
 
 ## How the Z Probe Determines a Successful Print
 
-![probes-positions](assets/probes-positions.jpg)
-
 When you print, it is imperative that the model - the object you're printing - is **stuck to the build plate**; only to be peeled off once the print is finished.
 
 For this, the printer needs to be able to repeatedly and precisely **position the nozzle very close to the build plate** so that the filament gets stuck to it as it's being extruded.
@@ -12,7 +10,7 @@ For this, the printer needs to be able to repeatedly and precisely **position th
 
 The Z Probe is an inductive proximity sensor which senses metal objects using electromagnetic field. In JellyBOX, the probe senses the aluminum build plate and thus determines the z home position - just like simple mechanical switches determine the x and y home positions. Therefore, **by adjusting the z probe, we can change the z home position and thus also the first layer height.**
 
-![first-layer-poster.png](assets/first-layer-poster.png ':size=400%')
+![probes-positions](assets/probes-positions.jpg ':size=400%')
 
 ## The Plan
 
