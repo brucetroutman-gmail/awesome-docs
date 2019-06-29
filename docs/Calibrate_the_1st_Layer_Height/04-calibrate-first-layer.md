@@ -1,9 +1,6 @@
 # Calibrate the First Layer Height
 _In the previous section, we positioned the Z probe so that it senses the build plate before the nozzle hits it. Trouble is, the [nozzle is now too high](nozzle-too-high.md) for printing. We need to precisely bring it closer to the build plate._
 
-[//]: # ( #TODO add the too damn high picture to the resources and link to it)
-
-
 ## 🎥 Video Walkthrough (4 min with narration)
 
 <div class="videoWrapper">

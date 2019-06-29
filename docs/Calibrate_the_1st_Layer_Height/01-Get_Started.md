@@ -10,7 +10,7 @@ For this, the printer needs to be able to repeatedly and precisely **position th
 
 The Z Probe is an inductive proximity sensor which senses metal objects using electromagnetic field. In JellyBOX, the probe senses the aluminum build plate and thus determines the z home position - just like simple mechanical switches determine the x and y home positions. Therefore, **by adjusting the z probe, we can change the z home position and thus also the first layer height.**
 
-![probes-positions](assets/probes-positions.jpg ':size=400%')
+![z-probe-variants.png](assets/z-probe-variants.png)
 
 ## The Plan
 
