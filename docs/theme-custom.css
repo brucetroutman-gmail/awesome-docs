@@ -1,6 +1,18 @@
 .sidebar-nav a, .sidebar nav a {
-	white-space: normal;
-	line-height:1.3;
+    white-space: normal;
+    line-height:1.2;
+    margin-bottom:0.5rem;
+}
+
+.sidebar-nav a {
+    /* font-weight: 600; */
+    font-size:100%;
+    letter-spacing: 0.01rem;
+}
+.sidebar-nav .app-sub-sidebar a {
+    font-weight: unset;
+    font-size:90%;
+    letter-spacing: unset;
 }
 
 .sidebar-nav li, .sidebar nav li  {
@@ -106,11 +118,18 @@ h1, h2 {
 } */
 
 :root {
-	/* Add sidebar navigation bullets */
+    /* Add sidebar navigation bullets  EMOJIS*/
+    /* ↳ # ∘ ∗ ∥ ∦ ∤ ∴ ∷ ≀ ∼ ⊙ ⊚ ⊣ ⊢ ⊦ ⊸ ⊳ ⊹ ⋈ ⋑ ⨀ ⨾ ⩉ ⩥ ⩵ ⩨ ⩩ ⫸ ⫴ ⫼ ⟐ ⟜ ⟟ ⧙ ⦚ ⦙ ⧁ … º ⤻ ⥅ ⪢ ⪡  ▸ ▹ ▷ ➝ ➞  ▶ ︎*/
     /* --sidebar-nav-link-before-content-l1: '📃'; */
     /* --sidebar-nav-link-before-content-l &:first-of-type: 📃; */
-	--sidebar-nav-link-before-content-l2: '📄';
+	/* --sidebar-nav-link-before-content-l2: '📄'; */
+	/* --sidebar-nav-link-before-content-l2: '⦚'; */
+	--sidebar-nav-link-before-content-l2: '↳';
     /* Nav Links - Pseudo Style */
+}
+
+.sidebar-nav>ul>li>ul>li>a:before{
+    font-size:100%;
 }
 
 /* App
