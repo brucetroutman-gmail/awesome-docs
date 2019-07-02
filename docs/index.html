@@ -51,7 +51,7 @@
 			subMaxLevel: 3,
 			loadNavbar: true,
 			mergeNavbar: true,
-			formatUpdated: '{MM}/{DD} {HH}:{mm}',
+			formatUpdated: '{MM}/{DD}/{YYYY}',
 			// logo: 'assets/imade3d_logo_icon_12_px.png',
 
 			// 5. docsify-themeable
@@ -79,39 +79,30 @@
 			// THIS ONE CHANGES A LOT OF THING. REVIEW. https://docsify.js.org/#/configuration?id=relativepath
 			// PLUGINS :
 			plugins: [
-				// function(hook) {
-				// var footer = [
-				// 	'<hr/>',
-				// 	'<footer>',
-				// 	'<span>Published by </span>',
-					// '<span><a href="https://imade3d.com" style="text-decoration:none; color:unset;font-style:italic;">imade3d.com</a> &copy;2019. </span>',
-				// 	'<span>Build with joy and </span>',
-				// 	'<span><a href="https://github.com/docsifyjs/docsify" target="_blank" style="text-decoration:none; color:unset;font-style:italic;">docsify</a>.</span>',
-				// 	'</footer>'
-				// ].join('');
+			function (hook, vm) {
+				hook.beforeEach(function (html) {
+				var url = 'https://github.com/needim/noty/blob/master/docs/' + vm.route.file
 
-				// hook.afterEach(function(html) {
-				// 	return html + footer;
-				// });
-				// },
-				function(hook, vm) {
-				hook.afterEach(function(html) {
-					var url =
-					'https://github.com/IMADE3D/awesome-docs/tree/master/docs' +
-					vm.route.file;
-					var editHtml = '[📝 Edit on github](' + url + ')\n';
+				var delimiter = '<span>∴∴∴\n\n</span>'
 
-					return (
-					html +
-					'<span>Build with joy and docsify by &copy; <a href="https://imade3d.com" style="text-decoration:none; color:unset;font-style:italic;">imade3d.com</a>\n</span>' +
-					'<hr>' +
-					'Last modified ' +
-					'{docsify-updated}' +
-					editHtml
-					);
-				});
-				}
-			]
+				var footer = '<span>Build with joy and docsify by &copy; <a href="https://imade3d.com">imade3d.com</a>\n</span>'
+
+				var lastModified = '<span class="last-modified">Last modified {docsify-updated} \n</span>'
+
+				var editButton = '<a class="edit-button" href="' + url +'" target="_blank">Edit this file on GitHub</a>\n'
+
+				var metaContainer = '<div class="meta-container">' + delimiter + footer + lastModified + editButton + '</div>\n'
+
+				return html
+					+ metaContainer
+					// + '\n----\n'
+					// + footer.join('')
+				  })
+      		}
+			],
+			pagination: {
+				crossChapter: false
+  			}
 	};
 	</script>
 

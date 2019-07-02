@@ -1,3 +1,42 @@
+.docsify-pagination-container {
+    margin: 5rem 0 4.5rem;
+}
+
+
+/* .last-modified:before {
+    content:'∴';
+    margin-right:0.5rem;
+}
+.last-modified:after {
+    content:'∴';
+    margin-left:0.5rem;
+} */
+
+.last-modified {
+    margin: 0 0.5rem;
+}
+
+.edit-button {white-space: nowrap;}
+
+.meta-container a {
+    text-decoration: none;
+    color: unset !important;
+}
+.meta-container {
+    /* float: right; */
+    color: rgba(68, 68, 68, 0.788);
+    position: absolute;
+    position: absolute;
+    bottom: 1rem;
+    margin-right: auto;
+    margin-left: auto;
+    left: 0px;
+    right: 0px;
+    width: 80%;
+    font-size:80%;
+    text-align:center;
+  }
+
 .sidebar-nav a, .sidebar nav a {
     white-space: normal;
     line-height:1.2;
