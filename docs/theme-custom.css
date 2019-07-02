@@ -1,6 +1,57 @@
+.docsify-pagination-container {
+    margin: 5rem 0 4.5rem;
+}
+
+
+/* .last-modified:before {
+    content:'∴';
+    margin-right:0.5rem;
+}
+.last-modified:after {
+    content:'∴';
+    margin-left:0.5rem;
+} */
+
+.last-modified {
+    margin: 0 0.5rem;
+}
+
+.edit-button {white-space: nowrap;}
+
+.meta-container a {
+    text-decoration: none;
+    color: unset !important;
+}
+.meta-container {
+    /* float: right; */
+    color: rgba(68, 68, 68, 0.788);
+    position: absolute;
+    position: absolute;
+    bottom: 1rem;
+    margin-right: auto;
+    margin-left: auto;
+    left: 0px;
+    right: 0px;
+    width: 80%;
+    font-size:80%;
+    text-align:center;
+  }
+
 .sidebar-nav a, .sidebar nav a {
-	white-space: normal;
-	line-height:1.3;
+    white-space: normal;
+    line-height:1.2;
+    margin-bottom:0.5rem;
+}
+
+.sidebar-nav a {
+    /* font-weight: 600; */
+    font-size:100%;
+    letter-spacing: 0.01rem;
+}
+.sidebar-nav .app-sub-sidebar a {
+    font-weight: unset;
+    font-size:90%;
+    letter-spacing: unset;
 }
 
 .sidebar-nav li, .sidebar nav li  {
@@ -106,11 +157,18 @@ h1, h2 {
 } */
 
 :root {
-	/* Add sidebar navigation bullets */
+    /* Add sidebar navigation bullets  EMOJIS*/
+    /* ↳ # ∘ ∗ ∥ ∦ ∤ ∴ ∷ ≀ ∼ ⊙ ⊚ ⊣ ⊢ ⊦ ⊸ ⊳ ⊹ ⋈ ⋑ ⨀ ⨾ ⩉ ⩥ ⩵ ⩨ ⩩ ⫸ ⫴ ⫼ ⟐ ⟜ ⟟ ⧙ ⦚ ⦙ ⧁ … º ⤻ ⥅ ⪢ ⪡  ▸ ▹ ▷ ➝ ➞  ▶ ︎*/
     /* --sidebar-nav-link-before-content-l1: '📃'; */
     /* --sidebar-nav-link-before-content-l &:first-of-type: 📃; */
-	--sidebar-nav-link-before-content-l2: '📄';
+	/* --sidebar-nav-link-before-content-l2: '📄'; */
+	/* --sidebar-nav-link-before-content-l2: '⦚'; */
+	--sidebar-nav-link-before-content-l2: '↳';
     /* Nav Links - Pseudo Style */
+}
+
+.sidebar-nav>ul>li>ul>li>a:before{
+    font-size:100%;
 }
 
 /* App
