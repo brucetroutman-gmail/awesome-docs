@@ -2,6 +2,25 @@
     margin: 5rem 0 4.5rem;
 }
 
+summary {
+    text-transform: capitalize;
+    /* font-weight: bold; */
+    border-style: solid;
+    border-color: #3f99cf;
+    border-width: 0 0 0 .2em;
+    padding-left: 1em;
+}
+
+details {
+    padding: 1em;
+    padding-left: 1.3em;
+    margin: 1em 0em;
+    /* border-radius: var(--border-radius-l); */
+    background: var(--mono-tint3);
+    /* border-style: solid;
+    border-color: #3f99cf;
+    border-width: 0 0 0 .2em; */
+}
 
 /* .last-modified:before {
     content:'∴';
