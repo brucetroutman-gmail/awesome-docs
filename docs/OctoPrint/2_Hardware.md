@@ -44,7 +44,7 @@ If you have our [Plug and Play OctoPrint-IE KIT](https://shop.imade3d.com/3d-pri
 ## TL;DR For the Impatient
 
 <details>
-<summary>TL;DR? (Click to expand)</summary>
+<summary>? TL;DR ?</summary>
 
 - Too Long; Didn't Read... It's a summary. It's the overtly short and possibly overly shortened text. Spark notes.
 

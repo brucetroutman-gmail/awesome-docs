@@ -11,7 +11,7 @@ You can browse for plugins at [https://plugins.octoprint.org/plugins/](https://p
 ### Plugins Pre-Installed in the OctoPi IMADE3 EDITION:
 
 <details>
-<summary>Pre-Installed Plugins (Click to expand)</summary>
+<summary>Pre-Installed Plugins</summary>
 
 **BetterHeaterTimeout**
 - Turns off the heaters after a period of inactivity. For those of us who forget printers heated up.
@@ -78,7 +78,7 @@ You can browse for plugins at [https://plugins.octoprint.org/plugins/](https://p
 > This list is NOT exhaustive. Just to get you started.
 
 <details>
-<summary>More Plugins We Like (Click to expand)</summary>
+<summary>More Plugins We Like</summary>
 
 **TouchUI**
 - Useful when you are accessing OctoPrint via a mobile device or touchscreen.

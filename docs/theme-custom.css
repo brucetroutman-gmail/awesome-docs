@@ -11,17 +11,6 @@ summary {
     padding-left: 1em;
 }
 
-details {
-    padding: 1em;
-    padding-left: 1.3em;
-    margin: 1em 0em;
-    /* border-radius: var(--border-radius-l); */
-    background: var(--mono-tint3);
-    /* border-style: solid;
-    border-color: #3f99cf;
-    border-width: 0 0 0 .2em; */
-}
-
 summary:after {
     content: "(Click to Expand)";
     padding-left: 1em;
@@ -31,6 +20,17 @@ summary:after {
 
 summary:hover {
     font-weight:bold;
+}
+
+details {
+    padding: 1em;
+    padding-left: 1.3em;
+    margin: 1em 0em;
+    /* border-radius: var(--border-radius-l); */
+    background: var(--mono-tint3);
+    /* border-style: solid;
+    border-color: #3f99cf;
+    border-width: 0 0 0 .2em; */
 }
 
 /* .last-modified:before {
