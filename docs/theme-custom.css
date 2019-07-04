@@ -6,7 +6,7 @@ summary {
     text-transform: capitalize;
     /* font-weight: bold; */
     border-style: solid;
-    border-color: #3f99cf;
+    border-color: var(--link-color);
     border-width: 0 0 0 .2em;
     padding-left: 1em;
 }
@@ -20,6 +20,17 @@ details {
     /* border-style: solid;
     border-color: #3f99cf;
     border-width: 0 0 0 .2em; */
+}
+
+summary:after {
+    content: "(Click to Expand)";
+    padding-left: 1em;
+    /* font-style: italic; */
+    color: var(--link-color);
+}
+
+summary:hover {
+    font-weight:bold;
 }
 
 /* .last-modified:before {

@@ -19,7 +19,7 @@ The Z Probe is an inductive proximity sensor which senses metal objects using el
 
 <details>
 <summary>
-Adjustable vs. Fixed Z probe mount (click to expand)
+Adjustable vs. Fixed Z probe mount
 </summary>
 
 ![zprobe-mount.png](assets/zprobe-mount.png)

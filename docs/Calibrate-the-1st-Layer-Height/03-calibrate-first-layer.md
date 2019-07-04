@@ -1,5 +1,5 @@
 # Calibrate the First Layer Height
-_In the previous section, we positioned the Z probe so that it senses the build plate before the nozzle hits it. Trouble is, the [nozzle is now too high](nozzle-too-high.md) for printing. We need to precisely bring it closer to the build plate._
+_In the previous section, we positioned the Z probe so that it senses the build plate before the nozzle hits it. Trouble is, the [nozzle is now too high](00-nozzle-too-high.md) for printing. We need to precisely bring it closer to the build plate._
 
 ## 🎥 Video Walkthrough (4 min with narration)
 
@@ -124,8 +124,6 @@ Older versions of JellyBOX firmware up to JB-Marlin-2.X save the 1st layer calib
 This has slight negative impact on the permanent memory lifespan, but, more importantly, it's uncommon.
 
 Most RepRap style 3D printers require explicit saving - this way the Live Adjustment can be used for impromptu tweaks in the spur of the moment without affecting the printer settings.
-
----
 </details>
 
 ## Print Stuff!
