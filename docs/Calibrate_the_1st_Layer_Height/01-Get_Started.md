@@ -18,7 +18,9 @@ The Z Probe is an inductive proximity sensor which senses metal objects using el
 2. Then, we will use the LCD controller (aka rotary encoder) to **calibrate the 1st layer height** to perfection via live adjustment.
 
 <details>
-<summary><b>* Adjustable vs. Fixed Z probe mount (click to expand)</b></summary>
+<summary>
+Adjustable vs. Fixed Z probe mount (click to expand)
+</summary>
 
 ![zprobe-mount.png](assets/zprobe-mount.png)
 
