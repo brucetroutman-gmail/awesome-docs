@@ -1,9 +1,11 @@
-<!-- docs/_sidebar.md -->
-- [![](assets/home.svg)Home](/ "IMADE3D Awesome Plaintext Docs")
-- [OctoPrint](OctoPrint/1_What_You_Should_Know_About_OctoPrint.md)
-- [Calibrate the 1st Layer Height](Calibrate-the-1st-Layer-Height/01-get-started.md)
-<!-- - [Template](/template/step1.md) -->
-
+Build Guides
+- [Your First Print](/Your-First-Print/01-get-started)
+
+Usage Guides
+- [Calibrate the 1st Layer Height](/Calibrate-the-1st-Layer-Height/01-get-started)
+
+Upgrades
+- [OctoPrint](/OctoPrint/1_What_You_Should_Know_About_OctoPrint)
 - **Links**
 - [IMADE3D Homepage](https://www.imade3d.com/)
 - [IMADE3D Store](https://shop.imade3d.com)
