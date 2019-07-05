@@ -1,3 +1,1 @@
-# [🔙 Go Back](04-calibrate-first-layer.md)
-
-![nozzle too high](assets/nozzle-too-damn-high.jpg)
+../Your-First-Print/00-nozzle-too-high.md

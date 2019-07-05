@@ -59,6 +59,7 @@
 				readyTransition : true,
 				responsiveTables: true
 			},
+
 			// search things
 			search: {
 				maxAge: 10000, // Expiration time, milliseconds, 10s now.
@@ -66,6 +67,7 @@
 				placeholder: 'Type to search',
 				hideOtherSidebarContent: false, // whether or not to hide other sidebar content
 			},
+
 			//tabs
 			tabs: {
 				persist    : true,      // default
@@ -74,10 +76,24 @@
 				tabComments: false,      // default
 				tabHeadings: true       // default
 			},
+
 			// Relative path enabled
+			//// this one changes a lot of things. https://docsify.js.org/#/configuration?id=relativepath
 			relativePath: true,
-			// THIS ONE CHANGES A LOT OF THING. REVIEW. https://docsify.js.org/#/configuration?id=relativepath
-			// PLUGINS :
+
+			// aliases
+			alias: {
+				// '/.*/_navbar.md': '/_navbar.md', // See #301
+				// '(.*)/Your-First-Print/(.*)': '$1/Calibrate-the-1st-Layer-Height/Your-First-Print/$2'
+				// '/.*/_sidebar.md': '/_sidebar.md' // See #301
+				// '/zh-cn/changelog': '/changelog'
+				// '/foo/(+*)': '/bar/$1', // supports regexp
+				// '/changelog':
+				// 'https://raw.githubusercontent.com/docsifyjs/docsify/master/CHANGELOG',
+
+			},
+
+			// plugins
 			plugins: [
 			function (hook, vm) {
 				hook.beforeEach(function (html) {
@@ -100,6 +116,8 @@
 				  })
       		}
 			],
+
+			// pagination
 			pagination: {
 				crossChapter: false
   			}

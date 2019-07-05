@@ -1,14 +1,27 @@
+.intro {
+    font-size: var(--font-size-m);
+    font-style: italic;
+    border-style: solid;
+    border-color: var(--mono-tint2);
+    border-width: 0 0 0 .3em;
+    padding-left:1em;
+}
+
 .docsify-pagination-container {
     margin: 5rem 0 4.5rem;
+}
+
+.home-icon:before {
+    content: url(/assets/home.svg)
 }
 
 summary {
     text-transform: capitalize;
     /* font-weight: bold; */
-    border-style: solid;
-    border-color: var(--link-color);
-    border-width: 0 0 0 .2em;
-    padding-left: 1em;
+    /* border-style: solid; */
+    /* border-color: var(--link-color); */
+    /* border-width: 0 0 0 .2em; */
+    /* padding-left: 1em; */
 }
 
 summary:after {
@@ -67,25 +80,57 @@ details {
     text-align:center;
   }
 
-.sidebar-nav a, .sidebar nav a {
+.sidebar p {
+    /* font-weight: strong; */
+    margin: 0;
+    /* font-style:italic; */
+    display: block;
+    padding: var(--sidebar-nav-strong-padding);
+    /* border-width: var(--sidebar-nav-strong-border-width, 0); */
+    /* border-style: solid; */
+    /* border-color: var(--sidebar-nav-strong-border-color); */
+    color: var(--sidebar-nav-strong-color);
+    font-size: var(--sidebar-nav-strong-font-size);
+    font-weight: var(--sidebar-nav-strong-font-weight);
+    text-transform: var(--sidebar-nav-strong-text-transform);
+}
+
+/* .sidebar-nav ul>li>strong, .sidebar nav ul>li>strong {
+} */
+
+.sidebar-nav li, .sidebar nav li  {
+    padding:3px 0px;
+    /* display: block; */
+    /* padding: var(--sidebar-nav-strong-padding); */
+    /* border-width: var(--sidebar-nav-strong-border-width, 0); */
+    /* border-style: solid; */
+    /* border-color: var(--sidebar-nav-strong-border-color); */
+    /* color: var(--sidebar-nav-strong-color); */
+    font-size: var(--sidebar-nav-strong-font-size);
+    text-transform: var(--sidebar-nav-strong-text-transform);
+}
+
+.sidebar-nav li>strong, .sidebar nav li>strong {
+    padding:3px 0px;
+    font-size: var(--font-size-s) !important;
+    font-weight: var(--sidebar-nav-strong-font-weight);
+    /* font-weight: normal !important; */
+}
+
+.sidebar-nav li a, .sidebar nav li a {
+    font-size: var(--font-size-m) !important;
+    text-transform: capitalize;
     white-space: normal;
     line-height:1.2;
     margin-bottom:0.5rem;
-}
-
-.sidebar-nav a {
-    /* font-weight: 600; */
     font-size:100%;
     letter-spacing: 0.01rem;
 }
+
 .sidebar-nav .app-sub-sidebar a {
     font-weight: unset;
     font-size:90%;
     letter-spacing: unset;
-}
-
-.sidebar-nav li, .sidebar nav li  {
-    padding:3px 0px;
 }
 
 .markdown-section code:not([class*="lang-"]):not([class*="language-"]) {
