@@ -19,8 +19,6 @@
 
 [z-spacer]: https://go.imade3d.com/z-probe-spacer
 
-- If you don't have the proper Z probe spacer, you can also use a transparent cable tie. Read more information in the [FAQ](FAQ?id=spacer).
-
 ## Step 1 - Experience the Sensing Distance
 
 Turn on you JellyBOX and move the X axis so that you can see a red light on your Z probe.

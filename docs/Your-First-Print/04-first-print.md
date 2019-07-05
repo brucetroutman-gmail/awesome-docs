@@ -34,14 +34,12 @@ Here's a [full guide on printing the Part Scraper](https://docs.imade3d.com/Guid
 
 ## Your Subsequent Prints
 
-![print-all-things](assets/3d-print-all-the-things.png ':size=300%')
-
-Obviously, print the included pre-sliced gcodes from your SD card like the popular
+Obviously, you can print the pre-sliced gcodes included on your SD card in the `GCODE folder` like the popular
 
 ![evil-ducky.png](assets/evil-ducky.png)
 
 ## Next Steps
 
-Check out the [What's Next final section of the jb JellyBOX Build Guide](https://docs.imade3d.com/c/JellyBOX_2_2.1.b.b_Build_Your_JellyBOX_Kit_Makers_with_Heated_Bed_16._What_Next%21_READ_THIS?revisionid=HEAD) for to get started with Slicing with Cura (processing 3D models into gcode), useful links, and more.
+Check out the [What's Next final section of the JellyBOX Build Guide](https://docs.imade3d.com/c/JellyBOX_2_2.1.b.b_Build_Your_JellyBOX_Kit_Makers_with_Heated_Bed_16._What_Next%21_READ_THIS?revisionid=HEAD) for to get started with Slicing with Cura (processing 3D models into gcode), useful links, and more.
 
 ![docs.next-steps.png](assets/docs.next-steps.png)

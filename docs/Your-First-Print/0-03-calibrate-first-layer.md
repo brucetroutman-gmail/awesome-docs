@@ -72,17 +72,24 @@ Alternatively:
 - [⬇️ Download the latest Calibrate PLA 1st Layer Print.][download_calibrate]
 - [⬇️ Or download the whole latest SD card][download_sd] (includes the print)
 
+[download_calibrate]: https://raw.githubusercontent.com/IMADE3D/JellyBOX-Essentials/master/GCODES%20-%20ready%20to%20print/1-Your%20First%20Print/PLA/First%20PLA%20print%20-%20210x45.gcode
+
+[download_sd]: go.imade3d.com/sd-card
+
 [//]: # ( #TODO put the latest calibration script to ftp and re-link. check start gcode.)
 
 ### Print from SD
 
-1. Launch the Calibration Print print (`Print from SD > JellyBOX-Essentials > SCRIPTS - gcode scripts > PLA`).
+1. Use the LCD rotary encoder to launch the Calibration Print (`Print from SD > JellyBOX-Essentials > SCRIPTS - gcode scripts > PLA`).
+   - Insert the SD card
+   - Scroll all the way down (clockwise) to find `Print from SD`
+   - Navigate the folder structure to find the PLA Calibration Print.
 
    ![calibrate-print-launch.png](assets/calibrate-print-launch.png)
 
 2. The JellyBOX will run the bed leveling sequence and save the bed leveling data to memory.
 3. The JellyBOX will pre-heat to printing temperature.
-4. BEEP
+4. The JellyBOX will will BEEP.
 
 > 🔔 **The JellyBOX will will BEEP when it's ready for you to initiate the next step.**
 
@@ -94,7 +101,24 @@ Once you hear the beep, click the lcd controller once to initiate the actual pri
 
 ### Use the controller to lower the nozzle
 
-Counter-clockwise is down and clockwise is up.
+Rotate the LCD knob while the JellyBOX is printing.
+- Counter-clockwise is down and clockwise is up
+- There's a small delay (up to 0.8s) between your rotating and the change in height. We recommend to initially try about 360° rotation and see what happens.
+- Note that the adjustment steps are very small - fractions of a millimeter. One whole 360° rotation of the knob gives you only about 0.2mm (0.008'') of Z adjustment.
+
+<details>
+<summary>
+I don't think the live adjustment is working. How do I test it?
+</summary>
+
+It's best to verify that the live adjusting works by **touch** as the individual movements are too small to see by a naked eye.
+
+1. Start the SD print as outlined above.*
+   - _* If you're using firmware version jb-marlin-3.x and higher, you do not have to start a print, which has the advantage of less noise._
+1. Then, lightly hold the Z rod with one hand while you rotate the LCD knob up and down.
+   - You should feel tiny pulses in the rod associated with very small movements.
+</details>
+
 
 [//]: # ( #TODO add an image with round arrows - and also new version with the nozzle showing. Maybe re-edit the video???)
 
@@ -106,7 +130,7 @@ Parallel lines should be all well connected with no visible gaps.
 
 ![nozzle3-low.png](assets/nozzle3-low.png)
 
-If you forgot, review the [Perfect 1st Layer Height][perfect_first] section for details.
+If you forgot, review the [Perfect 1st Layer Height][#perfect_1st] section for details.
 
  🔁 Repeat as needed. You may need to run the script multiple times until you reach the perfect first layer.
 
@@ -125,22 +149,3 @@ This has slight negative impact on the permanent memory lifespan, but, more impo
 
 Most RepRap style 3D printers require explicit saving - this way the Live Adjustment can be used for impromptu tweaks in the spur of the moment without affecting the printer settings.
 </details>
-
-## Print Stuff!
-
-When you are happy your first layer, get out there and print something nice.
-
-To verify, you can print the [IMADE3D First Print](go.imade3d.com/first-layer) (Our Logo with the 1st layer designed to be fast to print and easy to judge) or [IMADE3D Second Print (Part Scraper)](https://docs.imade3d.com/Guide/01.+Print+the+Part+Scraper/595?lang=en#s1777)
-
-![logo.png](assets/logo.png)
-
-![part-scraper](assets/part-scraper-2.gif)
-
-
-Check out the verified printable things on [MyMiniFactory](https://www.myminifactory.com/pages/explore), browse the [popular things on Thingiverse](https://www.thingiverse.com/explore/popular), or roam the free world of [YouMagine](https://www.youmagine.com/designs/popular). (There are tons of other source...)
-
-[download_calibrate]: https://raw.githubusercontent.com/IMADE3D/JellyBOX-Essentials/master/GCODES%20-%20ready%20to%20print/1-Your%20First%20Print/PLA/First%20PLA%20print%20-%20210x45.gcode
-
-[download_sd]: go.imade3d.com/sd-card
-
-[perfect_first]: #perfect_1st

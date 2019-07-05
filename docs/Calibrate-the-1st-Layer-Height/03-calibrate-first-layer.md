@@ -1,2 +1,1 @@
-[filename](-calibrate-first-layer.md ':include')
-[filename](-print-stuff.md ':include')
+../Your-First-Print/03-calibrate-first-layer.md
