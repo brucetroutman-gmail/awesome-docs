@@ -1,3 +1,12 @@
+.intro {
+    font-size: var(--font-size-m);
+    font-style: italic;
+    border-style: solid;
+    border-color: var(--mono-tint2);
+    border-width: 0 0 0 .3em;
+    padding-left:1em;
+}
+
 .docsify-pagination-container {
     margin: 5rem 0 4.5rem;
 }
@@ -9,10 +18,10 @@
 summary {
     text-transform: capitalize;
     /* font-weight: bold; */
-    border-style: solid;
-    border-color: var(--link-color);
-    border-width: 0 0 0 .2em;
-    padding-left: 1em;
+    /* border-style: solid; */
+    /* border-color: var(--link-color); */
+    /* border-width: 0 0 0 .2em; */
+    /* padding-left: 1em; */
 }
 
 summary:after {

@@ -1,5 +1,3 @@
-# Get Started
-
 ## How the Z Probe Determines a Successful Print
 
 When you print, it is imperative that the model - the object you're printing - is **stuck to the build plate**; only to be peeled off once the print is finished.

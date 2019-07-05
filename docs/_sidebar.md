@@ -1,8 +1,8 @@
 Build Guides
-- [Your First Print](/Your-First-Print/01-get-started)
+- [Your First Print](/Your-First-Print/01-get-started-1st-print)
 
 Usage Guides
-- [Calibrate the 1st Layer Height](/Calibrate-the-1st-Layer-Height/01-get-started)
+- [Calibrate the 1st Layer Height](/Your-First-Print/01-get-started-1st-layer)
 
 Upgrades
 - [OctoPrint](/OctoPrint/1_What_You_Should_Know_About_OctoPrint)
