@@ -8,4 +8,4 @@ You can now get back to _3D Printing All the Things_.
 
 ![print-all-things](assets/3d-print-all-the-things.png ':size=400%')
 
-<span><span>
+<span></span>

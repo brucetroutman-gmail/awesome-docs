@@ -10,4 +10,4 @@
   - If you only needed to Calibrate your First Layer Height, you're done. Get back to _3D Printing All the Things_.
   ![print-all-things](assets/3d-print-all-the-things.png ':size=200%')
 
-<span><span>
+<span></span>
