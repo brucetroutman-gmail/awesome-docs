@@ -2,6 +2,14 @@
 
 These are 'plain text' docs for IMADE3D products. The advantages are that these are portable, future-proof, and easily editable by anyone.
 
+## Questions, answers, and feedback
+
+1. You can submit pull requests or comment in the Issues right here on github (see below How to Contribute)
+1. You can discuss anything here at the [trusty forum.imade3d.com](forum.imade3d.com).
+1. You can [![Join the chat at https://gitter.im/yesimade3d/awesome-docs](https://badges.gitter.im/yesimade3d/awesome-docs.svg)](https://gitter.im/yesimade3d/awesome-docs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+    - This is an instant-messaging platform for open source projects similar in appearance to Slack or IRC. Real time. 
+
+
 ## How to Contribute
 
 > Don't worry, you cannot break anything. The system is protected against that. So Edit away!!!
