@@ -55,6 +55,13 @@ details {
     margin-left:0.5rem;
 } */
 
+/* gitter button */
+.gitter-open-chat-button {
+    background-color: #acdb32 !important;
+    box-shadow: 0px 20px 20px -6px black;
+}
+
+
 .last-modified {
     margin: 0 0.5rem;
 }
