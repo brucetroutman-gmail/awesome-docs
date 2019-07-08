@@ -11,7 +11,7 @@ These are 'plain text' docs for IMADE3D products. The advantages are that these 
 1. Submit a Pull Request with a justification of your proposed changes.
 1. We will review the changes and either ask you to amend your proposal or accept them!
 
-[![Watch the video](assets/loom.png)](https://www.loom.com/share/2f9e1268ad39413a99579a00eca9e0d2)
+[![Watch the video](assets/loom.png)](https://www.loom.com/share/2f9e1268ad39413a99579a00eca9e0d2) [![Join the chat at https://gitter.im/yesimade3d/awesome-docs](https://badges.gitter.im/yesimade3d/awesome-docs.svg)](https://gitter.im/yesimade3d/awesome-docs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## License
 
