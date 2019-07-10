@@ -82,3 +82,5 @@ The octopi.local relies a system called Zeroconf (also known as Bonjour or Avahi
 1. Open a web browser and go to [http://octopi.local](http://octopi.local).
 2. Give it a good wait. If it doesn't work:
 3. Install [Bonjour Print Services for Windows](https://support.apple.com/kb/DL999?locale=en_US). Then the [octopi.local](http://octopi.local) address should work. You may need to restart the Pi and/or the PC.
+
+<span></span>

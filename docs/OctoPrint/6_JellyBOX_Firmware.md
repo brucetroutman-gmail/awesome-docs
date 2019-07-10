@@ -63,3 +63,5 @@ These are designed to be used with the Firmware Updater in OctoPrint, but you ca
 | jellybox original heated_bed one_fan green_probe  | `https://github.com/IMADE3D/Marlin/releases/download/jb-3.0-dev6/jbm-3.0-dev6-jellybox_original_heated_bed_one_fan_green_probe.hex`  |
 | jellybox original heated_bed one_fan yellow_probe | `https://github.com/IMADE3D/Marlin/releases/download/jb-3.0-dev6/jbm-3.0-dev6-jellybox_original_heated_bed_one_fan_yellow_probe.hex` |
 | jellybox original heated_bed two_fans             | `https://github.com/IMADE3D/Marlin/releases/download/jb-3.0-dev6/jbm-3.0-dev6-jellybox_original_heated_bed_two_fans.hex`             |
+
+<span></span>
