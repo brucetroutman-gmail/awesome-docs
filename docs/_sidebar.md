@@ -1,11 +1,11 @@
 Build Guides
-- [Your First Print](/Your-First-Print/01-get-started)
+- [Your First Print](/Your-First-Print/)
 
 Usage Guides
-- [Calibrate the 1st Layer Height](/Calibrate-the-1st-Layer-Height/01-get-started)
+- [Calibrate the 1st Layer Height](/Calibrate-the-1st-Layer-Height/)
 
 Upgrades
-- [OctoPrint](/OctoPrint/1_What_You_Should_Know_About_OctoPrint)
+- [OctoPrint](/OctoPrint/)
 - **Links**
 - [IMADE3D Homepage](https://www.imade3d.com/)
 - [IMADE3D Store](https://shop.imade3d.com)

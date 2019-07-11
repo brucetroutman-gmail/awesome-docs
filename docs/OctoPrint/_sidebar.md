@@ -1,6 +1,6 @@
 OctoPrint
-- [![](../assets/home.svg)Home](/)
-- [1. What You Should Know About OctoPrint](1_What_You_Should_Know_About_OctoPrint)
+<!-- - [![](../assets/home.svg)Home](/) -->
+- [1. What You Should Know About OctoPrint](./)
 - [2. Hardware](2_Hardware)
 - [3. Configure the microSD Card](3_Configure_the_microSD_Card)
 - [4. The First Boot](4_The_First_Boot)
