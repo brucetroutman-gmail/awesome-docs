@@ -82,8 +82,10 @@
 			relativePath: true,
 
 			// aliases
+			// https://docsify.js.org/#/configuration?id=alias
 			alias: {
 				// '/.*/_navbar.md': '/_navbar.md', // See #301
+				// '(.+(?<!\/)$)': '$1/' // NOT WORKING eg. */octoprint would go to */octoprint/
 				// '(.*)/Your-First-Print/(.*)': '$1/Calibrate-the-1st-Layer-Height/Your-First-Print/$2'
 				// '/.*/_sidebar.md': '/_sidebar.md' // See #301
 				// '/zh-cn/changelog': '/changelog'
