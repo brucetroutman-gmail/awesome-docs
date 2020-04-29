@@ -2,7 +2,7 @@
 
 ?> Select a topic in the left side-bar to get started.<br><br>If you don't see any side-bar, you can unhide it (and hide it again) with the 'burger' button.
 
-![hamburger.png](assets/hamburger.png ':size=500%')
+![hamburger.png](assets/hamburger.png)
 
 ## Questions, answers, and feedback (Please)
 

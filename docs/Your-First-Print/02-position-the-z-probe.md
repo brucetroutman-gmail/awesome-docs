@@ -15,7 +15,7 @@
      - It's a 3D printed spacer that ships with the JellyBOX.
      - You can [download and print your own from here.][z-spacer]
      - If you don't have the proper Z probe spacer, you can also use a transparent cable tie. Read more information in the [FAQ](FAQ?id=spacer).
-      ![spacer.png](assets/spacer.png ':size=300%')
+      ![spacer.png](assets/spacer.png)
 
 [z-spacer]: https://go.imade3d.com/z-probe-spacer
 
