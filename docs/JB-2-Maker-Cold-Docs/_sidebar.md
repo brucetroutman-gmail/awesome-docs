@@ -5,4 +5,3 @@ Your First Print
 - [03 Calibrate the First Layer Height](03-calibrate-first-layer)
 - [04 Your First Print](04-first-print)
 <!-- - [05 Print All the Things](05-print-all-things) -->
-- [FAQ](FAQ)
