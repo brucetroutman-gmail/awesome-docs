@@ -1,4 +1,4 @@
-Your First Print
+# JellyBox2 Elementary Build Guide
 - [![](../assets/home.svg)Home](/)
 - [01 Get Started](./)
 - [02 Position the Z Probe](02-position-the-z-probe)
