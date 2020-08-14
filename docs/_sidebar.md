@@ -1,6 +1,6 @@
 Build Guides
-- [Your First Print](/Your-First-Print/)
 - [JellyBox2 Elementary](/JB-2-Maker-Cold-Docs/README.md)
+- [Your First Print](/Your-First-Print/)
 
 Usage Guides
 - [Calibrate the 1st Layer Height](/Calibrate-the-1st-Layer-Height/)
