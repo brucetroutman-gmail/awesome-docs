@@ -7,8 +7,8 @@ _You’re here because you are ready to build your JellyBOX2 Elementary._
 
 _In this guide, you’ll learn how to build your own 3D printer._
 
-![your-first-print.jpg](assets/picture1.jpg)
+![picture1.jpg](picture1.jpg)
 
-[filename](01.01.Pro+Tips.md ':include')
+[01.01 Pro Tips](01.01.Pro+Tips.md ':include')
 
 <span></span>
