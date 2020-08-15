@@ -1,9 +1,9 @@
 # JellyBox2 Elementary Build Guide
 <!-- - [![](../assets/home.svg)Home](/)  -->
-- [01.01.Pro+Tips.md](01.01.Pro+Tips.md)
-- [01.02.Tighten.md](01.02.Tighten.md)
-- [01.03.Peel.md](01.03.Peel.md)
-- [02.01.Y+Motor+Bracket.md](02.01.Y+Motor+Bracket.md)
+- [01.01.Pro Tips](01.01.Pro+Tips.md)
+- [01.02.Tighten](01.02.Tighten.md)
+- [01.03.Peel](01.03.Peel.md)
+- [02.01.Y Motor Bracket](02.01.Y+Motor+Bracket.md)
 - [02.02.Y+Assembly.md](02.02.Y+Assembly.md)
 - [03.01.Assemble+the+HotEnd.md](03.01.Assemble+the+HotEnd.md)
 - [03.02.Assemble+the+Extruder.md](03.02.Assemble+the+Extruder.md)
