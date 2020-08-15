@@ -1,6 +1,6 @@
 # Get Started
 
-## JellyBox2 Elementary Build Guide
+## JellyBox 2 Elementary Build Guide
 
 
 _You’re here because you are ready to build your JellyBOX2 Elementary._
