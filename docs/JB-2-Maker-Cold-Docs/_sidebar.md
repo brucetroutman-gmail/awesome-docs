@@ -1,6 +1,5 @@
 # JellyBox2 Elementary Build Guide
 <!-- - [![](../assets/home.svg)Home](/)  -->
-- [01 Get Started](./)
 - [01.01.Pro+Tips.md](01.01.Pro+Tips.md)
 - [01.02.Tighten.md](01.02.Tighten.md)
 - [01.03.Peel.md](01.03.Peel.md)
