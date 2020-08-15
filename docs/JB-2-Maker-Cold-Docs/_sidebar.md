@@ -33,7 +33,7 @@
 - [13.02 - Back Cover](13.02.Back+Cover.md)
 - [13.03 - Front Door](13.03.Front+Door.md)
 - [14.01 - Hot Tighten the HotEnd](14.01.Hot+Tighten+the+HotEnd.md)
-- [15.01 - Your First Print](../Your-First-Print)
+- [15.01 - Your First Print](../Your-First-Print/README.md)
 - [16.01 - Print the Part Scraper](16.01.Print+the+Part+Scraper.md)
 - [16.02 - Cura Slicer Quick Start](16.02.Cura+Slicer+Quick+Start.md)
 - [16.03 - Adjust the Feed Tensioner](16.03.Adjust+the+Feed+Tensioner.md)
