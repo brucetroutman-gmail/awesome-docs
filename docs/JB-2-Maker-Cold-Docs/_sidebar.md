@@ -1,3 +1,4 @@
+JellyBox Elementary Build Guide
 - [![](../assets/home.svg)Home](/)
 - [01.01 - Pro Tips](01.01.Pro+Tips.md)
 - [01.02 - Tighten](01.02.Tighten.md)
