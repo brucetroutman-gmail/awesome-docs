@@ -1,5 +1,5 @@
-# JellyBox2 Elementary Build Guide
-<!-- - [![](../assets/home.svg)Home](/)  -->
+JellyBox2 Elementary Build Guide
+- [![](../assets/home.svg)Home](/)
 - [01.01 - Pro Tips](01.01.Pro+Tips.md)
 - [01.02 - Tighten](01.02.Tighten.md)
 - [01.03 - Peel](01.03.Peel.md)
@@ -39,4 +39,5 @@
 - [16.03 - Adjust the Feed Tensioner](16.03.Adjust+the+Feed+Tensioner.md)
 - [16.04 - Disable Beep before Print](16.04.Disable+Beep+before+Print.md)
 
+<span></span>
 <!-- - <a href="../Your-First-Print/README.md" target="_blank">15.01 - Your First Print</a> -->
