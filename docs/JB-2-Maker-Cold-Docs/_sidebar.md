@@ -38,6 +38,3 @@ JellyBox 2 Elementary Build Guide
 - [16.02 - Cura Slicer Quick Start](16.02.Cura+Slicer+Quick+Start.md)
 - [16.03 - Adjust the Feed Tensioner](16.03.Adjust+the+Feed+Tensioner.md)
 - [16.04 - Disable Beep before Print](16.04.Disable+Beep+before+Print.md)
-
-<span></span>
-<!-- - <a href="../Your-First-Print/README.md" target="_blank">15.01 - Your First Print</a> -->
