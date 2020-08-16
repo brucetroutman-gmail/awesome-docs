@@ -1,5 +1,4 @@
 JellyBox 2 Elementary Build Guide
-<!-- - [![](../assets/home.svg)Home](/) -->
 - [01.01 - Pro Tips](01.01.Pro+Tips.md)
 - [01.02 - Tighten](01.02.Tighten.md)
 - [01.03 - Peel](01.03.Peel.md)
@@ -38,5 +37,3 @@ JellyBox 2 Elementary Build Guide
 - [16.02 - Cura Slicer Quick Start](16.02.Cura+Slicer+Quick+Start.md)
 - [16.03 - Adjust the Feed Tensioner](16.03.Adjust+the+Feed+Tensioner.md)
 - [16.04 - Disable Beep before Print](16.04.Disable+Beep+before+Print.md)
-
-<span></span>
