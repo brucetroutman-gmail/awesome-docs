@@ -8,7 +8,7 @@
 
 Please tell us if you spot any mistakes or if you have suggestions for improvements. We appreciate all feedback.
 
-1. You can discuss anything here at the trusty [forum.imade3d.com](https://github.com/IMADE3D/awesome-docs/blob/master/forum.imade3d.com).
+1. You can discuss anything here at the trusty [forum.imade3d.com](https://forum.imade3d.com).
 2. You can click on the `Open Chat` button in the bottom right corner to join the chat (it's associated with the [yesimade3d/awesome-docs](https://gitter.im/yesimade3d/awesome-docs) room on Gitter)
     - Gitter is an instant-messaging platform for open source projects similar in appearance to Slack or IRC.
 3. If you're a bit git-savvy, you can submit pull requests or comment in the Issues on Github (see [How to Contribute](https://github.com/IMADE3D/awesome-docs#how-to-contribute) for a short video guide we made for you.) Yay.
