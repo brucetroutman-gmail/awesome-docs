@@ -10,13 +10,12 @@ If you have any functional 3D printer, you can also print your own. It takes jus
 
 ## I don't think the live adjustment is working. How do I test it?
 
-
 It's best to verify that the live adjusting works by **touch** as the individual movements are too small to see by a naked eye.
 
 1. Start the SD print [as outlined in Launch The (Calibration) Print](03-calibrate-first-layer?id=step-2-launch-the-calibration-print).*
-   - _* If you're using firmware version jb-marlin-3.x and higher, you do not have to start a print, which has the advantage of less noise._
+- _* If you're using firmware version jb-marlin-3.x and higher, you do not have to start a print, which has the advantage of less noise._
 2. Then, lightly hold the Z rod with one hand while you rotate the LCD knob up and down.
-   - You should feel tiny pulses in the rod associated with very small movements.
+- You should feel tiny pulses in the rod associated with very small movements.
 
 ## It's bothersome to get into the Live Adjustment mode. Is there a shortcut with a surpriginly groovy connection to Cardiopulmonary Resuscitation (CPR)?
 
