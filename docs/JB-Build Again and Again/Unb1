@@ -1,0 +1,454 @@
+<!-- Copy and paste the converted output. -->
+
+
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 30.</p>
+<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
+
+<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
+<a href="#gdcalert2">alert2</a>
+<a href="#gdcalert3">alert3</a>
+<a href="#gdcalert4">alert4</a>
+<a href="#gdcalert5">alert5</a>
+<a href="#gdcalert6">alert6</a>
+<a href="#gdcalert7">alert7</a>
+<a href="#gdcalert8">alert8</a>
+<a href="#gdcalert9">alert9</a>
+<a href="#gdcalert10">alert10</a>
+<a href="#gdcalert11">alert11</a>
+<a href="#gdcalert12">alert12</a>
+<a href="#gdcalert13">alert13</a>
+<a href="#gdcalert14">alert14</a>
+<a href="#gdcalert15">alert15</a>
+<a href="#gdcalert16">alert16</a>
+<a href="#gdcalert17">alert17</a>
+<a href="#gdcalert18">alert18</a>
+<a href="#gdcalert19">alert19</a>
+<a href="#gdcalert20">alert20</a>
+<a href="#gdcalert21">alert21</a>
+<a href="#gdcalert22">alert22</a>
+<a href="#gdcalert23">alert23</a>
+<a href="#gdcalert24">alert24</a>
+<a href="#gdcalert25">alert25</a>
+<a href="#gdcalert26">alert26</a>
+<a href="#gdcalert27">alert27</a>
+<a href="#gdcalert28">alert28</a>
+<a href="#gdcalert29">alert29</a>
+<a href="#gdcalert30">alert30</a>
+
+<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+
+
+
+# JellyBOX - Build it Again and Again
+
+Draft: 8/27/2018 BT/CB/BF
+
+Instructions for JellyBOX version 1.X
+
+
+## Introduction
+
+One of the most exciting features of the JellyBOX 3D printer (JB) for a classroom setting is the ability to build it and rebuild it many times with different classes. Initially, a team builds the JB then prints things that they download or design themselves. At the end of the term, the next class should be able to repeat the process. This ability to rebuild the JB makes it the best value educational printer on the market.
+
+“Building a JB Again and Again” consists of two phases: Un-Building (disassemble) and Re-Building (reassemble).
+
+Both phases of the process should be done by the entering class. The class will take apart the JB in an orderly way so that it can be rebuilt without much confusion. Un-Building requires some inexpensive supplies.  Allow an adequate amount of time, two to four hours, for the disassembly. Correct disassembly will help the rebuilding process go smoothly.
+
+
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image1.jpg "image_tooltip")
+	
+
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image2.jpg "image_tooltip")
+
+
+    _Figure 1. Supplies Setup_                                     _Figure 2. Assembled JellyBOX Printer_
+
+
+## Un-Building of the JellyBOX 
+
+
+
+1. **What you will need.** 
+
+    - 1 bag of 5” and 1 bag of 4” cable ties (recommended from IMADE3D.com)
+
+
+    - 1 box of sealable sandwich plastic storage bags
+
+
+    - 1 box of sealable larger bags such as _Hefty_ 2.5 Gallon (i.e., $4.50 at _Publix_) 
+
+
+    - 1 permanent marker to label the bags
+
+
+    - 1 roll blue painter’s tape – use it for labels and securing loose pieces
+
+
+    - 1 medium storage cardboard box 18"x18"x16” (i.e., $1.34 at _Home Depot_)
+
+2. **Unplug your JB.**  Label one larger storage bag as **JB Power Supply.**  Place the power supply and electrical cord in the bag.
+
+    
+
+<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image3.jpg "image_tooltip")
+ 
+
+
+    			   _Figure 3. Power Cable Stored_
+
+3. **Store your tools.**  Label one smaller storage bag as **JB Tools** and collect the **3 Hex Wrenches** from the top of your JB, the **Snippers** and **Tweezers** from inside the JB, and the small** Flat-head Screwdriver** that came with your kit.  If you don’t have them, then pick them up at your local hardware store.
+
+     
+
+<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image4.jpg "image_tooltip")
+
+
+
+    				  _Figure 4. Tools Stored      _
+
+4. **Remove the Back.**  Label a small storage bag as **JB Back**.  Using the larger** 2.5 mm hex wrench**, remove the 3 screws that secure the back cover and place them on some blue tape and then into the bag.  Using the **Snippers**, clip the cable ties around the back and count them.  Remove the 3 hex shaped acrylic back cover supports and the green clips. Then remove the back.  Place in the bag the same amount of new ties that you removed.  Place the 3 hex shaped acrylic supports and the green clips in the bag.  Tape the bag to the back of the acrylic pieces.
+
+    
+
+<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image5.jpg "image_tooltip")
+
+
+
+    			    _Figure 5. Disassembled Back_
+
+
+    
+
+<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image6.jpg "image_tooltip")
+
+
+
+    		_    Figure 6. Stored Back with New Ties_
+
+5. **Remove the Top and Brace.**  Label a small storage bag as **JB Top**.  Using the **Snippers**, clip and count the cable ties around the top and the top brace.  Remove the green clips and carefully remove the top.  Clip the 4 cable ties that secure the filament rollers.  Place in the bag the same number of new cable ties that you removed.  Place the 4 bearings, the 2 short rods and the green clips in the bag.  Tape the bag and the 2 brace pieces to the top acrylic piece.
+
+    
+
+<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image7.jpg "image_tooltip")
+
+
+
+    _			    Figure 7. Top Disassembled_
+
+
+    
+
+<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image8.jpg "image_tooltip")
+
+
+
+    		    _Figure 8. Stored Top and Brace with New Ties_
+
+
+    **Be Careful When Disconnecting Wires**:  Disconnect any wires by pulling the connector plugs.  **<span style="text-decoration:underline;">DO NOT PULL BY THE WIRES!!</span>**
+
+6. **Remove the Front.**  Label a small storage bag as **JB Front**.  Disconnect the cables from the LCD on the front.  Clip the cable ties on the front and count them.  Remove the green clips and remove the front.  **_(Do not remove the LCD screen)_**.  Place the same number of ties that you cut in the bag.  Place the green clips in the bag as well.  Tape the bag to the front acrylic piece.
+
+    
+
+<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image9.jpg "image_tooltip")
+
+
+
+    		_    Figure 9. Front Disassembled_
+
+
+    
+
+<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image10.jpg "image_tooltip")
+
+
+
+    	 	  _  Figure 10. Front Stored with New Ties_
+
+7. **Remove the Extruder.**  Label a large storage bag as **JB Extruder**.  Loosen the green plastic nut that secures the extruder.  Disconnect the extruder motor plug.  Disconnect the hot end connector.  Disconnect the fan connector.  Remove the extruder and place it in the bag.  
+
+    
+
+<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image11.jpg "image_tooltip")
+
+
+
+    		    _Figure 11. Removed Extruder_
+
+
+    
+
+<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image12.jpg "image_tooltip")
+
+
+
+    		         _Figure 12. Stored Extruder_
+
+8. **Remove the Bed and Y Motor.**  Label a large storage bag as **JB BED.**  Clip belt tensioner’s small cable tie.  Clip cable ties that secure the rods.  Remove the bed.  Remove the 2 rods.  Clip the cable ties on the 4 bearings.  Unplug the Y motor.  Remove the Y motor by twisting it out of its 2 slots.  **_(Do not remove the Belt from the bed)._**  Place the same number of new ties that you cut in the bag.  Place the bed, the 4 bearings, the 2 long rods, and the Y motor in the bag. 
+
+    
+
+<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image13.jpg "image_tooltip")
+
+
+
+    _			  Figure 13. Disassembled Bed and Y-Motor_
+
+
+    **NOTE:** Leave the Bed’s belt guide connected to the bottom of the printer as seen in Figure 15. **<span style="text-decoration:underline;">DO NOT REMOVE THE BELT GUIDE!!!</span>**
+
+
+    
+
+<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image14.jpg "image_tooltip")
+
+
+
+    _		     Figure 14. Bed Belt Guide in the Bottom Panel_
+
+
+    
+
+<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image15.jpg "image_tooltip")
+
+
+
+    		       _ Figure 15. Stored Bed and Y-Motor with New Ties_
+
+9. **Remove the Z Motor.**  Label a large storage bag as **JB Z Motor.**  Wipe the Z motor screw with a paper towel as it might be greasy.  Remove using the larger **2.5 mm Hex Wrench** by removing the 2 bolts from the green X/Z coupler on the X motor.  It helps if a second person holds the X Axis to release pressure while unscrewing.**  (Be careful not to lose the lock washers)**.  Put bolts and washers on some blue tape then into the bag.  Turn the JB on its side and remove the 2 bolts from the Z motor.  Put the washers and bolts on some blue tape then into the bag.  Put the Z motor into the bag.  
+
+    
+
+<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image16.jpg "image_tooltip")
+
+
+
+    			_      Figure 16. Disassembled Z-Motor _
+
+
+    
+
+<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image17.jpg "image_tooltip")
+
+
+
+    			      _Figure 17. Stored Z-Motor_
+
+10. **Disconnect the Arduino and Rep Rap Ramp connectors.**  Disconnect the black USB plug from the Arduino located in the top left.  Disconnect the power clip to the extruder.  Disconnect the E, X, Y, and Z motor connectors from the Ramp.  Disconnect the T0 connector.  **(If you have a heated bed, also disconnect T1.)  **Disconnect the X, Y, and Z end stop connectors. **_(Leave the LCD cables connected.)_** Using a small flat-head screw driver, disconnect pins D9 +/- and D10 +/-.  If you have a heated bed, disconnect the D8 +/- pins as well.  Disconnect the green 12 Volt block connector from the Ramp on the bottom left.
+
+    
+
+<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image18.jpg "image_tooltip")
+
+
+
+    		_    Figure 18. Mostly Disconnected Arduino_
+
+
+    
+
+<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image19.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image19.jpg "image_tooltip")
+
+
+
+    _Figure 19. Disconnect the Power to the Extruder_
+
+
+    
+
+<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image20.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image20.jpg "image_tooltip")
+
+
+
+    _Figure 20. Disconnect pins D9 and D10_
+
+
+    
+
+<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image21.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image21.jpg "image_tooltip")
+
+
+
+    _Figure 21. Disconnect the 12 Volt Block Connector_
+
+11. **Remove the X Axis.**  Label a large storage bag as **JB X Axis.**  Free up all wires that are attached to the X Axis harness by clipping and counting the small cable ties on the Inner Back.  Unwind the wires out of the wire comb.  Once the wires are free, clip the cable ties that hold the left-side rod then the right-side rod.  Remove the X Axis and put it in the bag.  Place in the bag the same number of new ties that you removed. 
+
+    
+
+<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image22.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image22.jpg "image_tooltip")
+
+
+
+    _		    Figure 22. Disassembled X-Axis _
+
+
+    
+
+<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image23.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image23.jpg "image_tooltip")
+
+
+
+					    _Figure 23. Stored X-Axis with New Ties_
+
+
+
+12. **Remove the Inner Back.  **Label a large storage bag as **JB Inner Back.**  Clip and count all remaining cable ties on the Inner Back.  **_(Do Not Clip the ties on the Bottom and leave the motor wires and end stop wire attached to Bottom)._**  Place the Inner Back in the bag.  Place in the bag the same number of new ties that you removed.  **_(Do not remove the Arduino/Ramp from the Inner Back.)_**
+
+    
+
+<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image24.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image24.jpg "image_tooltip")
+
+
+
+				      _Figure 24. Disassembled Inner Back_
+
+
+    
+
+<p id="gdcalert25" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image25.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert26">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image25.jpg "image_tooltip")
+
+
+
+    _		     Figure 25. Stored Inner Back with New Ties_
+
+
+
+13. **Remove the Bottom and 2 Sides**.  Label 3 large storage bags **JB Bottom**,** JB Left Side**, and** JB Right Side**.  Clip and count all remaining cable ties.  Place in the **JB Bottom** bag the same number of new ties that you removed.  Place the remaining pieces in their respective bags.
+
+    
+
+<p id="gdcalert26" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image26.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert27">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image26.jpg "image_tooltip")
+
+
+
+    _                            Figure 26. JB Right _
+
+
+    
+
+<p id="gdcalert27" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image27.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert28">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image27.jpg "image_tooltip")
+
+
+
+    _		        Figure 27. JB Left_
+
+
+    
+
+<p id="gdcalert28" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image28.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert29">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image28.jpg "image_tooltip")
+
+
+
+    _		          Figure 28. JB Bottom_
+
+14. Place all bags in the cardboard storage box.  Use paper towels to cushion any sharp areas and to separate the bags while stored. Then schedule a time to Rebuild the JellyBOX!!! 
+
+    
+
+<p id="gdcalert29" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image29.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert30">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image29.jpg "image_tooltip")
+
+
+
+    _Figure 29. All Pieces Stored_
+
+
+    
+
+<p id="gdcalert30" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image30.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert31">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image30.jpg "image_tooltip")
+
+
+
+    Figure 30. All Pieces Stored in Box with Dimensions
